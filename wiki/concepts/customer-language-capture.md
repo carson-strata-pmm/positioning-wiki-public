@@ -12,18 +12,18 @@ Customer language capture is the practice of preserving the exact words, phrases
 ## Examples from Client Work
 
 ### Interview-Derived Language
-- **Avoca:** The co-founder interview explored questions like "In 12 months, what do you want Avoca to be known as?" and "Why do you truly win deals?" These discovery questions surface the language that distinguishes how a company thinks about itself vs. how the market sees them.
-- **Unity Industry:** Jessica Lindl's interview surfaced the "infinite grind" concept and refined the "develop, deploy, grow" framework. The interview also revealed that "develop, deploy, grow" was already found across many operational plans, indicating strong internal alignment.
-- **Eudia:** CLO interviews revealed that lawyers are "academic and skeptical" and respond to language that feels "insider," which directly shaped the brand voice guidance.
+- **A home services AI platform (Series B):** The co-founder interview explored questions like "In 12 months, what do you want a home services AI platform (Series B) to be known as?" and "Why do you truly win deals?" These discovery questions surface the language that distinguishes how a company thinks about itself vs. how the market sees them.
+- **An industrial 3D platform (enterprise):** A stakeholder interview surfaced the "infinite grind" concept and refined the "develop, deploy, grow" framework. The interview also revealed that "develop, deploy, grow" was already found across many operational plans, indicating strong internal alignment.
+- **A legal AI platform (Series B):** CLO interviews revealed that lawyers are "academic and skeptical" and respond to language that feels "insider," which directly shaped the brand voice guidance.
 
 ### Pain Language Patterns
 | Client | Customer Pain Language | How Used in Messaging |
 |--------|----------------------|----------------------|
-| Avoca | "The front office is the most important function... yet it runs on the most volatile workforce" | Directly shaped the CSR instability pillar |
-| Agency | "More hands create worse customer outcomes" | Became a candidate hero problem name |
-| TeamOhana | "I've seen significant progress with the new process, particularly in making discussions more data-driven" | Used as validation quote in framework |
-| Jane | "You're not just the clinician -- you're the admin, the owner, the systems department, and the entire support staff" | Opens the problem section with empathetic buyer language |
-| Eudia | "It's like outfitting every attorney in your network with an Iron Man suit" | Metaphor used in the CLO narrative POV |
+| A home services AI platform (Series B) | "The front office is the most important function... yet it runs on the most volatile workforce" | Directly shaped the CSR instability pillar |
+| A customer AI agent platform (Series A) | "More hands create worse customer outcomes" | Became a candidate hero problem name |
+| A headcount management platform (Series B) | "I've seen significant progress with the new process, particularly in making discussions more data-driven" | Used as validation quote in framework |
+| A healthcare practice management platform (Series A) | "You're not just the clinician -- you're the admin, the owner, the systems department, and the entire support staff" | Opens the problem section with empathetic buyer language |
+| A legal AI platform (Series B) | "It's like outfitting every attorney in your network with an Iron Man suit" | Metaphor used in the CLO narrative POV |
 
 ### Interview Guide Structure
 Strata's CEO interview template covers:
@@ -36,8 +36,8 @@ Strata's CEO interview template covers:
 ## Patterns & Lessons
 - **The interview guide is a core framework asset.** It's not just a conversation guide -- it's a systematic extraction tool. The questions are designed to surface language that maps to the messaging framework.
 - **"Why are you here?" is the most important question.** When executives explain why they hired Strata, they often articulate the hero problem more clearly than any positioning document.
-- **Empathetic language matters for owner-operators.** Jane and Avoca both target people who wear every hat. The messaging adopts a warmer, more personal tone ("you feel overwhelmed," "it's wearing you down") that mirrors how these buyers actually talk.
-- **Academic buyers need different language.** Eudia's framework explicitly notes that lawyers respond to "academic, insider, inventive" language. Generic SaaS copy would fail with this audience.
+- **Empathetic language matters for owner-operators.** A healthcare practice management platform (Series A) and a home services AI platform (Series B) both target people who wear every hat. The messaging adopts a warmer, more personal tone ("you feel overwhelmed," "it's wearing you down") that mirrors how these buyers actually talk.
+- **Academic buyers need different language.** The legal AI platform's (Series B) framework explicitly notes that lawyers respond to "academic, insider, inventive" language. Generic SaaS copy would fail with this audience.
 - **Internal language ≠ customer language.** A recurring challenge is when internal teams use product jargon that customers don't recognize. The interview process surfaces what customers actually say, not what the product team wishes they said.
 
 ## Related Concepts
@@ -47,8 +47,8 @@ Strata's CEO interview template covers:
 - [[pov-opening-strategies]] — the best openings use the buyer's own words to set up the problem
 
 ## Related Clients
-- [[clients/avoca]] — co-founder interview and customer case studies provide rich language
-- [[clients/unity-industry]] — multiple stakeholder interviews shaped the narrative
-- [[clients/eudia]] — brand voice explicitly tailored to academic/skeptical legal audience
-- [[clients/jane]] — empathetic, practitioner-first language throughout
-- [[clients/teamohana]] — customer quote used as validation proof
+- A home services AI platform (Series B) — co-founder interview and customer case studies provide rich language
+- An industrial 3D platform (enterprise) — multiple stakeholder interviews shaped the narrative
+- A legal AI platform (Series B) — brand voice explicitly tailored to academic/skeptical legal audience
+- A healthcare practice management platform (Series A) — empathetic, practitioner-first language throughout
+- A headcount management platform (Series B) — customer quote used as validation proof

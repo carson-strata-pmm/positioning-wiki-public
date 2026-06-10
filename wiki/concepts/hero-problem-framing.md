@@ -13,20 +13,20 @@ The hero problem is the single, named problem that anchors an entire narrative. 
 
 | Client | Hero Problem Name | Framing |
 |--------|------------------|---------|
-| Avoca | "Your growth is hitting a ceiling" | Revenue leakage at every stage of the customer journey compounds until growth stalls. Operational framing: missed calls, dropped leads, staffing churn. |
-| Agency | "The Customer Value Paradox" / "The Bureaucracy Bottleneck" | The more people you invest in customer experience, the worse it gets. Paradox framing that indicts the human-led model. |
-| Eudia | "The speed-to-risk ratio" | Legal sits between two conflicting demands: speed and risk. Accelerating business pace makes the old balance unsustainable. |
-| TeamOhana | "The Headcount Headache" | 70% of OPEX is managed through spreadsheets and disconnected teams. Operational failure framing. |
-| Unity Industry | "The Reality Gap" | Products are designed in 3D but collaboration happens in flat files and screenshots. Perception gap framing. |
-| Unity Games | "The Success Gap" | Making a successful game requires more than ever, but the overhead pulls developers away from creative work. |
-| Jane | "The dual responsibility" | Practitioners are overwhelmed balancing patient care with running a business. Emotional/identity framing. |
-| BrightEdge | "Discoverability in the AI era" | Traditional SEO is being disrupted by generative AI search, and marketing teams are ill-equipped. Market shift framing. |
-| General Legal | "The Scarcity Constraint" | Elite legal expertise is artificially scarce, forcing companies to ration it for high-stakes moments only. |
-| Snappy | "Ad hoc gifting" | Gifting is treated as a checkbox, not a strategy, because teams lack expertise, bandwidth, and tooling. |
+| A home services AI platform (Series B) | "Your growth is hitting a ceiling" | Revenue leakage at every stage of the customer journey compounds until growth stalls. Operational framing: missed calls, dropped leads, staffing churn. |
+| A customer AI agent platform (Series A) | "The Customer Value Paradox" / "The Bureaucracy Bottleneck" | The more people you invest in customer experience, the worse it gets. Paradox framing that indicts the human-led model. |
+| A legal AI platform (Series B) | "The speed-to-risk ratio" | Legal sits between two conflicting demands: speed and risk. Accelerating business pace makes the old balance unsustainable. |
+| A headcount management platform (Series B) | "The Headcount Headache" | 70% of OPEX is managed through spreadsheets and disconnected teams. Operational failure framing. |
+| An industrial 3D platform (enterprise) | "The Reality Gap" | Products are designed in 3D but collaboration happens in flat files and screenshots. Perception gap framing. |
+| A game development platform (enterprise) | "The Success Gap" | Making a successful game requires more than ever, but the overhead pulls developers away from creative work. |
+| A healthcare practice management platform (Series A) | "The dual responsibility" | Practitioners are overwhelmed balancing patient care with running a business. Emotional/identity framing. |
+| A search marketing platform (enterprise) | "Discoverability in the AI era" | Traditional SEO is being disrupted by generative AI search, and marketing teams are ill-equipped. Market shift framing. |
+| An AI-native law firm | "The Scarcity Constraint" | Elite legal expertise is artificially scarce, forcing companies to ration it for high-stakes moments only. |
+| An employee recognition platform (Series B) | "Ad hoc gifting" | Gifting is treated as a checkbox, not a strategy, because teams lack expertise, bandwidth, and tooling. |
 
 ## Patterns & Lessons
 - **Name it to claim it.** Every successful engagement produces a named problem. The name is often the single most important creative output.
-- **Paradox framing is powerful.** Several hero problems (Agency, Eudia) use a paradox: "the thing you're doing to fix the problem is actually making it worse." This stops buyers in their tracks.
+- **Paradox framing is powerful.** Several hero problems (a customer AI agent platform (Series A), a legal AI platform (Series B)) use a paradox: "the thing you're doing to fix the problem is actually making it worse." This stops buyers in their tracks.
 - **Structural > situational.** The best hero problems feel inevitable, not anecdotal. They describe a system failure, not a bad quarter.
 - **The hero problem is not the product pitch.** It must resonate *before* the product is introduced. If it only makes sense after hearing the solution, it's too product-centric.
 - **Revenue, cost, risk cascade.** Every hero problem connects to measurable negative consequences. This bridges emotional resonance with economic urgency.
@@ -45,13 +45,13 @@ Every hero problem operates on three layers:
 
 | Archetype | Pattern | Model Client |
 |-----------|---------|-------------|
-| **Paradox** | The thing you're doing to fix the problem is making it worse | Agency, Eudia |
-| **Gap** | Two things that should be connected are separated | Unity Industry, TeamOhana |
-| **Hidden Cost** | You're tolerating an enormous cost you've never measured | Avoca, TeamOhana |
-| **Constraint** | Something valuable is artificially scarce | General Legal, BrightEdge |
-| **Identity Burden** | The buyer's identity is split between what they love and what they're forced to do | Jane |
+| **Paradox** | The thing you're doing to fix the problem is making it worse | A customer AI agent platform (Series A), a legal AI platform (Series B) |
+| **Gap** | Two things that should be connected are separated | An industrial 3D platform (enterprise), a headcount management platform (Series B) |
+| **Hidden Cost** | You're tolerating an enormous cost you've never measured | A home services AI platform (Series B), a headcount management platform (Series B) |
+| **Constraint** | Something valuable is artificially scarce | An AI-native law firm, a search marketing platform (enterprise) |
+| **Identity Burden** | The buyer's identity is split between what they love and what they're forced to do | A healthcare practice management platform (Series A) |
 
-The strongest hero problems (Agency, Eudia, TeamOhana) combine two archetypes for depth.
+The strongest hero problems (a customer AI agent platform (Series A), a legal AI platform (Series B), a headcount management platform (Series B)) combine two archetypes for depth.
 
 ### The Formula
 
@@ -64,15 +64,15 @@ HERO PROBLEM = Named Tension + Structural Cause + Hidden Consequence
 2. **The inevitability test:** Does it feel structural and worsening, not situational?
 3. **The pre-product test:** Does it resonate before the buyer knows your product exists?
 
-**Tier 1** (passes all three): Agency, Eudia, TeamOhana
-**Tier 2** (passes two): Unity Industry, General Legal, Avoca
-**Tier 3** (passes one or zero): Unity Games, Jane, BrightEdge, Snappy
+**Tier 1** (passes all three): A customer AI agent platform (Series A), a legal AI platform (Series B), a headcount management platform (Series B)
+**Tier 2** (passes two): An industrial 3D platform (enterprise), an AI-native law firm, a home services AI platform (Series B)
+**Tier 3** (passes one or zero): A game development platform (enterprise), a healthcare practice management platform (Series A), a search marketing platform (enterprise), an employee recognition platform (Series B)
 
 ### Language Patterns
 - **Use "The ___" naming formula.** 7 of 10 hero problems use a definite article -- implies the problem already exists and is waiting to be named.
 - **Use tension words, not product words.** Gap, paradox, ratio, dual, headache, constraint, ceiling -- physics words, economics words, body words.
 - **Use compounding language.** "Compounds until growth stalls," "the more you invest, the more challenging it becomes" -- creates urgency without FUD.
-- **Use second person only for owner-operators.** "Your growth" (Avoca), "you feel overwhelmed" (Jane) -- only when business and personal pain are the same.
+- **Use second person only for owner-operators.** "Your growth" (a home services AI platform (Series B)), "you feel overwhelmed" (a healthcare practice management platform (Series A)) -- only when business and personal pain are the same.
 - **Aim for 2-4 words with alliteration or rhythm.** "Headcount Headache," "Customer Value Paradox," "Reality Gap."
 
 ## Related Concepts
@@ -84,13 +84,13 @@ HERO PROBLEM = Named Tension + Structural Cause + Hidden Consequence
 - [[engagements/hero-problem-formula]] — the universal formula with applied guidance for new engagements
 
 ## Related Clients
-- [[clients/avoca]] — "Your growth is hitting a ceiling"
-- [[clients/agency]] — "The Customer Value Paradox"
-- [[clients/eudia]] — "The speed-to-risk ratio"
-- [[clients/teamohana]] — "The Headcount Headache"
-- [[clients/unity-industry]] — "The Reality Gap"
-- [[clients/unity-games]] — "The Success Gap"
-- [[clients/jane]] — "The dual responsibility"
-- [[clients/brightedge]] — "Discoverability in the AI era"
-- [[clients/general-legal]] — "The Scarcity Constraint"
-- [[clients/snappy]] — "Ad hoc gifting"
+- A home services AI platform (Series B) — "Your growth is hitting a ceiling"
+- A customer AI agent platform (Series A) — "The Customer Value Paradox"
+- A legal AI platform (Series B) — "The speed-to-risk ratio"
+- A headcount management platform (Series B) — "The Headcount Headache"
+- An industrial 3D platform (enterprise) — "The Reality Gap"
+- A game development platform (enterprise) — "The Success Gap"
+- A healthcare practice management platform (Series A) — "The dual responsibility"
+- A search marketing platform (enterprise) — "Discoverability in the AI era"
+- An AI-native law firm — "The Scarcity Constraint"
+- An employee recognition platform (Series B) — "Ad hoc gifting"

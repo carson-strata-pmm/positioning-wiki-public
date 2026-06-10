@@ -27,16 +27,16 @@ The problem is always a forced trade-off between two things the buyer cares abou
 
 | Client | X | Y | Tension |
 |--------|---|---|---------|
-| Eudia | Speed | Risk | "The speed-to-risk ratio" |
-| Agency | Scale | Customer intimacy | "The Customer Value Paradox" |
-| Jane | Patient care | Running a business | "The dual responsibility" |
-| Unity Games | Creative ambition | Operational overhead | "The Success Gap" |
-| Unity Industry | 3D design capability | 3D collaboration access | "The Reality Gap" |
-| General Legal | Legal need | Affordability of expertise | "The Scarcity Constraint" |
-| Avoca | Growth ambition | Front-office capacity | "Your growth is hitting a ceiling" |
-| TeamOhana | Headcount spending (70% OPEX) | Process maturity to manage it | "The Headcount Headache" |
-| BrightEdge | Content creation capability | Discoverability | "Discoverability in the AI era" |
-| Snappy | Recognition intent | Gifting execution | "Ad hoc gifting" |
+| A legal AI platform (Series B) | Speed | Risk | "The speed-to-risk ratio" |
+| A customer AI agent platform (Series A) | Scale | Customer intimacy | "The Customer Value Paradox" |
+| A healthcare practice management platform (Series A) | Patient care | Running a business | "The dual responsibility" |
+| A game development platform (enterprise) | Creative ambition | Operational overhead | "The Success Gap" |
+| An industrial 3D platform (enterprise) | 3D design capability | 3D collaboration access | "The Reality Gap" |
+| An AI-native law firm | Legal need | Affordability of expertise | "The Scarcity Constraint" |
+| A home services AI platform (Series B) | Growth ambition | Front-office capacity | "Your growth is hitting a ceiling" |
+| A headcount management platform (Series B) | Headcount spending (70% OPEX) | Process maturity to manage it | "The Headcount Headache" |
+| A search marketing platform (enterprise) | Content creation capability | Discoverability | "Discoverability in the AI era" |
+| An employee recognition platform (Series B) | Recognition intent | Gifting execution | "Ad hoc gifting" |
 
 **The restatement test:** Every hero problem should be expressible as: "You are forced to choose between X and Y, and that trade-off is costing you more than you realize."
 
@@ -45,16 +45,16 @@ The problem must be architectural, not incidental:
 
 | Client | Structural Cause |
 |--------|-----------------|
-| Agency | The human-led model creates handoffs and bureaucracy by design |
-| Eudia | The legal operating model was built for a slower world |
-| TeamOhana | Finance tools weren't built for recruiting; recruiting tools weren't built for finance |
-| General Legal | The billable hour model concentrates expertise by design |
-| Avoca | The CSR workforce is structurally volatile (seasonal, high-churn) |
-| Unity Industry | 3D tools require specialized expertise by design, locking out non-experts |
-| BrightEdge | SEO methods were built for navigational search, not conversational AI |
-| Jane | Solo practitioners must fill every role because the tools don't integrate |
-| Unity Games | Platform fragmentation forces developers into non-creative operational work |
-| Snappy | Gifting lacks a strategic function because no one owns it organizationally |
+| A customer AI agent platform (Series A) | The human-led model creates handoffs and bureaucracy by design |
+| A legal AI platform (Series B) | The legal operating model was built for a slower world |
+| A headcount management platform (Series B) | Finance tools weren't built for recruiting; recruiting tools weren't built for finance |
+| An AI-native law firm | The billable hour model concentrates expertise by design |
+| A home services AI platform (Series B) | The CSR workforce is structurally volatile (seasonal, high-churn) |
+| An industrial 3D platform (enterprise) | 3D tools require specialized expertise by design, locking out non-experts |
+| A search marketing platform (enterprise) | SEO methods were built for navigational search, not conversational AI |
+| A healthcare practice management platform (Series A) | Solo practitioners must fill every role because the tools don't integrate |
+| A game development platform (enterprise) | Platform fragmentation forces developers into non-creative operational work |
+| An employee recognition platform (Series B) | Gifting lacks a strategic function because no one owns it organizationally |
 
 **The "trying harder" test:** If the buyer could solve the problem by hiring one more person or being more disciplined, the structural cause is too weak.
 
@@ -62,16 +62,16 @@ The problem must be architectural, not incidental:
 
 | Client | Consequence | Type |
 |--------|------------|------|
-| Avoca | ~$46K per CSR churn event, 90% of leads gone after 20 seconds | Financial |
-| TeamOhana | $294K average in unapproved headcount costs, 70% of OPEX on spreadsheets | Financial |
-| Eudia | Matter volume up 79% with flat budgets | Operational |
-| Agency | 80-90% of enterprise customers underserved | Revenue at risk |
-| General Legal | Everyday business decisions made without legal judgment | Risk |
-| Jane | "Work eats into your nights," "you feel isolated" | Personal/emotional |
-| Unity Industry | Collaboration in PowerPoint while products are designed in 3D | Efficiency |
-| BrightEdge | Marketing teams ill-equipped for AI-driven search | Competitive |
-| Unity Games | Developers pulled away from creative work | Productivity |
-| Snappy | Inequitable gifting experiences eroding engagement | Cultural |
+| A home services AI platform (Series B) | ~$46K per CSR churn event, 90% of leads gone after 20 seconds | Financial |
+| A headcount management platform (Series B) | $294K average in unapproved headcount costs, 70% of OPEX on spreadsheets | Financial |
+| A legal AI platform (Series B) | Matter volume up 79% with flat budgets | Operational |
+| A customer AI agent platform (Series A) | 80-90% of enterprise customers underserved | Revenue at risk |
+| An AI-native law firm | Everyday business decisions made without legal judgment | Risk |
+| A healthcare practice management platform (Series A) | "Work eats into your nights," "you feel isolated" | Personal/emotional |
+| An industrial 3D platform (enterprise) | Collaboration in PowerPoint while products are designed in 3D | Efficiency |
+| A search marketing platform (enterprise) | Marketing teams ill-equipped for AI-driven search | Competitive |
+| A game development platform (enterprise) | Developers pulled away from creative work | Productivity |
+| An employee recognition platform (Series B) | Inequitable gifting experiences eroding engagement | Cultural |
 
 **The visibility test:** The best consequences are ones the buyer hasn't measured. Making the invisible visible creates the "lean in" moment.
 
@@ -82,7 +82,7 @@ The problem must be architectural, not incidental:
 ### A. The Paradox
 **Pattern:** The thing you're doing to solve the problem is actually making it worse.
 
-**Model clients:** Agency ("The Customer Value Paradox"), Eudia ("The speed-to-risk ratio")
+**Model clients:** A customer AI agent platform (Series A) ("The Customer Value Paradox"), a legal AI platform (Series B) ("The speed-to-risk ratio")
 
 **Signature language:** "paradox," "irony," "the more you... the less you..."
 
@@ -93,7 +93,7 @@ The problem must be architectural, not incidental:
 ### B. The Gap
 **Pattern:** Two things that should be connected are separated, and the gap costs more than anyone realizes.
 
-**Model clients:** Unity Industry ("The Reality Gap"), Unity Games ("The Success Gap"), TeamOhana ("The Headcount Headache")
+**Model clients:** An industrial 3D platform (enterprise) ("The Reality Gap"), a game development platform (enterprise) ("The Success Gap"), a headcount management platform (Series B) ("The Headcount Headache")
 
 **Signature language:** "gap," "disconnect," "misalignment," "between"
 
@@ -104,7 +104,7 @@ The problem must be architectural, not incidental:
 ### C. The Hidden Cost
 **Pattern:** You're tolerating an enormous cost because you've never measured it.
 
-**Model clients:** Avoca ("Your growth is hitting a ceiling"), TeamOhana ("The Headcount Headache")
+**Model clients:** A home services AI platform (Series B) ("Your growth is hitting a ceiling"), a headcount management platform (Series B) ("The Headcount Headache")
 
 **Signature language:** "leakage," "hidden," "invisible," numbers that shock (70%, $294K, $46K)
 
@@ -115,7 +115,7 @@ The problem must be architectural, not incidental:
 ### D. The Constraint
 **Pattern:** Something valuable is artificially scarce, and the scarcity itself is the problem.
 
-**Model clients:** General Legal ("The Scarcity Constraint"), BrightEdge ("Discoverability in the AI era")
+**Model clients:** An AI-native law firm ("The Scarcity Constraint"), a search marketing platform (enterprise) ("Discoverability in the AI era")
 
 **Signature language:** "constraint," "scarcity," "reserved for," "rationed," "ill-equipped"
 
@@ -126,7 +126,7 @@ The problem must be architectural, not incidental:
 ### E. The Identity Burden
 **Pattern:** The buyer's professional identity is being split between what they love and what they're forced to do.
 
-**Model clients:** Jane ("The dual responsibility")
+**Model clients:** A healthcare practice management platform (Series A) ("The dual responsibility")
 
 **Signature language:** "overwhelmed," "feel," "you're not just," emotional verbs (dread, exhaust, isolate)
 
@@ -145,15 +145,15 @@ The problem must be architectural, not incidental:
 - **Alliteration and rhythm help.** "Headcount Headache," "Customer Value," "Reality Gap" -- sonic patterns make names stickier.
 
 ### Buyer-address conventions
-- **Use second person ("your") only for owner-operators.** Avoca and Jane address the buyer directly because business pain and personal pain are the same thing for those personas.
+- **Use second person ("your") only for owner-operators.** A home services AI platform (Series B) and a healthcare practice management platform (Series A) address the buyer directly because business pain and personal pain are the same thing for those personas.
 - **Use third person ("the") for enterprise buyers.** "The speed-to-risk ratio" treats the problem as an objective market condition, not a personal failing. Enterprise buyers respond to structural framing, not emotional framing.
 
 ### Compounding language
 Use language that implies the problem worsens over time without intervention:
-- "compounds until growth stalls" (Avoca)
-- "the more people you invest... the more challenging it becomes" (Agency)
-- "matter volumes rise, budgets stay flat" (Eudia)
-- "every new hire amplifies spreadsheet chaos" (TeamOhana)
+- "compounds until growth stalls" (a home services AI platform (Series B))
+- "the more people you invest... the more challenging it becomes" (a customer AI agent platform (Series A))
+- "matter volumes rise, budgets stay flat" (a legal AI platform (Series B))
+- "every new hire amplifies spreadsheet chaos" (a headcount management platform (Series B))
 
 Compounding creates urgency without FUD. The problem isn't scary because something might go wrong -- it's scary because the current trajectory is already going wrong.
 
@@ -167,17 +167,17 @@ Compounding creates urgency without FUD. The problem isn't scary because somethi
 3. **The pre-product test:** Does the problem resonate before the buyer knows your product exists? ("The Customer Value Paradox" -- absolutely. "The Success Gap" -- only vaguely.)
 
 ### Tier 1: Passes all three tests
-Agency ("The Customer Value Paradox"), Eudia ("The speed-to-risk ratio"), TeamOhana ("The Headcount Headache")
+A customer AI agent platform (Series A) ("The Customer Value Paradox"), a legal AI platform (Series B) ("The speed-to-risk ratio"), a headcount management platform (Series B) ("The Headcount Headache")
 
-These names alone tell the story. They combine two archetypes for depth: Agency is a paradox with a hidden cost; TeamOhana is a hidden cost in a gap; Eudia is a paradox under a constraint.
+These names alone tell the story. They combine two archetypes for depth: A customer AI agent platform (Series A) is a paradox with a hidden cost; a headcount management platform (Series B) is a hidden cost in a gap; a legal AI platform (Series B) is a paradox under a constraint.
 
 ### Tier 2: Passes two of three (strong framing, softer name)
-Unity Industry ("The Reality Gap"), General Legal ("The Scarcity Constraint"), Avoca ("Your growth is hitting a ceiling")
+An industrial 3D platform (enterprise) ("The Reality Gap"), an AI-native law firm ("The Scarcity Constraint"), a home services AI platform (Series B) ("Your growth is hitting a ceiling")
 
 These need context or explanation to land. They're good framings but weaker names.
 
 ### Tier 3: Passes one or zero (framing without structural depth)
-Unity Games ("The Success Gap"), Jane ("The dual responsibility"), BrightEdge ("Discoverability in the AI era"), Snappy ("Ad hoc gifting")
+A game development platform (enterprise) ("The Success Gap"), a healthcare practice management platform (Series A) ("The dual responsibility"), a search marketing platform (enterprise) ("Discoverability in the AI era"), an employee recognition platform (Series B) ("Ad hoc gifting")
 
 These fail the "say it to a stranger" test. They describe a problem space but don't compress a structural tension into a phrase that stops someone.
 
@@ -199,11 +199,11 @@ Use the selection guide:
 
 | If the buyer's situation is... | Use this archetype | Model client |
 |-------------------------------|-------------------|--------------|
-| Their solution is making things worse | Paradox | Agency |
-| Two things that should be connected are disconnected | Gap | Unity Industry, TeamOhana |
-| They're tolerating a cost they've never measured | Hidden Cost | Avoca, TeamOhana |
-| Something valuable is artificially restricted | Constraint | General Legal |
-| Their identity is being split by competing demands | Identity Burden | Jane |
+| Their solution is making things worse | Paradox | A customer AI agent platform (Series A) |
+| Two things that should be connected are disconnected | Gap | An industrial 3D platform (enterprise), a headcount management platform (Series B) |
+| They're tolerating a cost they've never measured | Hidden Cost | A home services AI platform (Series B), a headcount management platform (Series B) |
+| Something valuable is artificially restricted | Constraint | An AI-native law firm |
+| Their identity is being split by competing demands | Identity Burden | A healthcare practice management platform (Series A) |
 
 Consider layering two archetypes for depth.
 
@@ -211,7 +211,7 @@ Consider layering two archetypes for depth.
 Apply the naming conventions: "The [Noun] [Tension Word]," 2-4 words, tension words not product words, alliteration if possible. Test against the three tests (name, inevitability, pre-product). If it doesn't pass at least two, iterate.
 
 ### Step 6: Validate in the buyer's language
-The name should use words the buyer would use, not words the vendor would use. If the buyer wouldn't say "paradox," don't use "paradox." TeamOhana's "Headcount Headache" works because every VP of Finance has said the word "headache" about headcount management.
+The name should use words the buyer would use, not words the vendor would use. If the buyer wouldn't say "paradox," don't use "paradox." the headcount management platform's (Series B) "Headcount Headache" works because every VP of Finance has said the word "headache" about headcount management.
 
 ---
 
@@ -223,11 +223,11 @@ The name should use words the buyer would use, not words the vendor would use. I
 - [[engagements/hero-problem-anatomy]] -- the full cross-client analysis this formula is derived from
 
 ## Related Clients
-- [[clients/agency]] -- Tier 1 model (paradox archetype)
-- [[clients/eudia]] -- Tier 1 model (paradox + constraint)
-- [[clients/teamohana]] -- Tier 1 model (gap + hidden cost)
-- [[clients/avoca]] -- Tier 2 model (hidden cost archetype)
-- [[clients/unity-industry]] -- Tier 2 model (gap archetype)
-- [[clients/general-legal]] -- Tier 2 model (constraint archetype)
-- [[clients/jane]] -- identity burden archetype
-- [[clients/numeric]] -- formula applied pre-engagement (see discovery brief)
+- A customer AI agent platform (Series A) -- Tier 1 model (paradox archetype)
+- A legal AI platform (Series B) -- Tier 1 model (paradox + constraint)
+- A headcount management platform (Series B) -- Tier 1 model (gap + hidden cost)
+- A home services AI platform (Series B) -- Tier 2 model (hidden cost archetype)
+- An industrial 3D platform (enterprise) -- Tier 2 model (gap archetype)
+- An AI-native law firm -- Tier 2 model (constraint archetype)
+- A healthcare practice management platform (Series A) -- identity burden archetype
+- A finance automation platform -- formula applied pre-engagement (see discovery brief)

@@ -12,17 +12,17 @@ Every Strata messaging framework decomposes the hero problem into three pain pil
 
 | Client | Hero Problem | Pillar 1 | Pillar 2 | Pillar 3 |
 |--------|-------------|----------|----------|----------|
-| Avoca | "Your growth is hitting a ceiling" | Underfilled job boards | Inconsistent customer experience | Staffing challenges |
-| Agency | "The Customer Value Paradox" | Limited customer coverage | Terrible customer experience | Unrealized value |
-| Eudia (CLO) | "The speed-to-risk ratio" | Bottleneck to the business | Escalating, inefficient spend | Overloaded internal team |
-| Eudia (ALF) | "Disruption of my career" | Eroding client trust | Constrained | Being left behind (skills) |
-| TeamOhana | "The Headcount Headache" | Untrusted data | Lack of control | Wasted time |
-| Unity Industry | "The Reality Gap" | Creation bottlenecked by lack of specialists | Struggle to collaborate across disciplines | Rest of company can't see what's being built |
-| Unity Games | "The Success Gap" | Platform requirements consume dev resources | Live ops demands higher than ever | Harder to find players and monetize |
-| BrightEdge | "Discoverability in the AI era" | Bandwidth and resourcing | Reporting complexity | Limited cross-functional buy-in |
-| General Legal | "The Scarcity Constraint" | Can't keep up with the pace of business | Spending too little time on strategy | Perceived as cost center, not value driver |
-| Jane | "The dual responsibility" | Repetitive admin consuming time | Need tools to work the way I do | Patients need accessible care | _(+P4: Running a business is lonely)_ |
-| Snappy | "Ad hoc gifting" | Ad hoc gifting (no strategy) | Gifting operations/management | Recipient impact |
+| A home services AI platform (Series B) | "Your growth is hitting a ceiling" | Underfilled job boards | Inconsistent customer experience | Staffing challenges |
+| A customer AI agent platform (Series A) | "The Customer Value Paradox" | Limited customer coverage | Terrible customer experience | Unrealized value |
+| A legal AI platform (Series B) (CLO) | "The speed-to-risk ratio" | Bottleneck to the business | Escalating, inefficient spend | Overloaded internal team |
+| A legal AI platform (Series B) (ALF) | "Disruption of my career" | Eroding client trust | Constrained | Being left behind (skills) |
+| A headcount management platform (Series B) | "The Headcount Headache" | Untrusted data | Lack of control | Wasted time |
+| An industrial 3D platform (enterprise) | "The Reality Gap" | Creation bottlenecked by lack of specialists | Struggle to collaborate across disciplines | Rest of company can't see what's being built |
+| A game development platform (enterprise) | "The Success Gap" | Platform requirements consume dev resources | Live ops demands higher than ever | Harder to find players and monetize |
+| A search marketing platform (enterprise) | "Discoverability in the AI era" | Bandwidth and resourcing | Reporting complexity | Limited cross-functional buy-in |
+| An AI-native law firm | "The Scarcity Constraint" | Can't keep up with the pace of business | Spending too little time on strategy | Perceived as cost center, not value driver |
+| A healthcare practice management platform (Series A) | "The dual responsibility" | Repetitive admin consuming time | Need tools to work the way I do | Patients need accessible care | _(+P4: Running a business is lonely)_ |
+| An employee recognition platform (Series B) | "Ad hoc gifting" | Ad hoc gifting (no strategy) | Gifting operations/management | Recipient impact |
 
 ---
 
@@ -34,10 +34,10 @@ Each pillar replicates the hero problem's three-layer structure at a lower level
 - **Causes** -- structural reasons this sub-problem exists (typically 2-3)
 - **Consequences** -- specific costs the buyer tolerates
 
-This is fractal: the hero problem decomposes into three pillars, each of which has its own cause-consequence logic. The strongest frameworks (TeamOhana, Avoca, Agency, Eudia) maintain this structure rigorously in every pillar.
+This is fractal: the hero problem decomposes into three pillars, each of which has its own cause-consequence logic. The strongest frameworks (a headcount management platform (Series B), a home services AI platform (Series B), a customer AI agent platform (Series A), a legal AI platform (Series B)) maintain this structure rigorously in every pillar.
 
 ### Three is the magic number
-9 of 10 clients use exactly three pillars. Jane is the sole exception with four. Three pillars create a rhythm that's easy to remember, present, and sell with. Two feels incomplete; four loses focus. The 3-pillar constraint forces the team to make hard choices about what matters most -- which is itself a strategic act.
+9 of 10 clients use exactly three pillars. A healthcare practice management platform (Series A) is the sole exception with four. Three pillars create a rhythm that's easy to remember, present, and sell with. Two feels incomplete; four loses focus. The 3-pillar constraint forces the team to make hard choices about what matters most -- which is itself a strategic act.
 
 ### Each pillar has its own cause-consequence stack
 The raw frameworks show a consistent internal structure:
@@ -52,7 +52,7 @@ Pain Pillar Name (2-5 words)
     Negative Consequences (2-3 measurable costs)
 ```
 
-TeamOhana's "Untrusted data" pillar is the cleanest example:
+the headcount management platform's (Series B) "Untrusted data" pillar is the cleanest example:
 - **Pain statement:** Headcount data is fragmented, error-ridden, and stale
 - **Causes:** Scattered data, bad data, outdated data
 - **Consequences:** No visibility, security risk
@@ -67,18 +67,18 @@ The three pillars are not randomly ordered. Across 8 of 10 clients, the pillars 
 
 | Client | Pillar 1 (Input/Capacity) | Pillar 2 (Process/Quality) | Pillar 3 (Outcome/Value) |
 |--------|--------------------------|---------------------------|--------------------------|
-| Agency | Can't reach all customers (coverage) | Bad experience when you do (quality) | Don't realize value (outcome) |
-| TeamOhana | Data is bad (input quality) | Process is broken (governance) | Time is wasted (productivity) |
-| Unity Industry | Can't create (input access) | Can't collaborate (process) | Can't see what's built (visibility) |
-| Unity Games | Dev overhead (input cost) | Live ops demands (process) | Growth/monetization difficulty (outcome) |
-| General Legal | Can't keep up (throughput) | No time for strategy (allocation) | Perceived as cost center (outcome) |
-| BrightEdge | No bandwidth (capacity) | Can't make sense of data (process) | Can't get organizational buy-in (outcome) |
-| Snappy | No strategy (planning) | Operations are manual (execution) | Gifts don't land (impact) |
-| Eudia CLO | Business bottleneck (throughput) | Escalating spend (cost) | Team overwhelmed (capacity) |
+| A customer AI agent platform (Series A) | Can't reach all customers (coverage) | Bad experience when you do (quality) | Don't realize value (outcome) |
+| A headcount management platform (Series B) | Data is bad (input quality) | Process is broken (governance) | Time is wasted (productivity) |
+| An industrial 3D platform (enterprise) | Can't create (input access) | Can't collaborate (process) | Can't see what's built (visibility) |
+| A game development platform (enterprise) | Dev overhead (input cost) | Live ops demands (process) | Growth/monetization difficulty (outcome) |
+| An AI-native law firm | Can't keep up (throughput) | No time for strategy (allocation) | Perceived as cost center (outcome) |
+| A search marketing platform (enterprise) | No bandwidth (capacity) | Can't make sense of data (process) | Can't get organizational buy-in (outcome) |
+| An employee recognition platform (Series B) | No strategy (planning) | Operations are manual (execution) | Gifts don't land (impact) |
+| A legal AI platform (Series B) CLO | Business bottleneck (throughput) | Escalating spend (cost) | Team overwhelmed (capacity) |
 
 **Why it works:** The value chain progression mirrors how the buyer experiences the problem. They first feel the input constraint (not enough resources, bad data, no access), then encounter the process failure (broken workflows, inconsistent quality), and finally suffer the outcome failure (unrealized value, wasted spend, lost opportunity). This sequencing builds a logical argument: the inputs are broken → so the process is broken → so the outcomes are broken.
 
-**Avoca is the notable variant.** Its sequence is revenue capture (input) → quality (process) → staffing (capacity) -- the third pillar loops back to an input problem (people). This works because for owner-operators, staffing *is* the output problem: you can't scale without solving the people constraint.
+**A home services AI platform (Series B) is the notable variant.** Its sequence is revenue capture (input) → quality (process) → staffing (capacity) -- the third pillar loops back to an input problem (people). This works because for owner-operators, staffing *is* the output problem: you can't scale without solving the people constraint.
 
 ---
 
@@ -91,15 +91,15 @@ The most common archetype, appearing in **8 of 10 clients**. Names a volume, cov
 
 | Client | Pillar | Language |
 |--------|--------|---------|
-| Agency | Limited customer coverage | "You can only serve a fraction of your accounts" |
-| Avoca | Underfilled job boards | "When inbound demand isn't captured, boards stay underfilled" |
-| Avoca | Staffing challenges | "Staffing the phones requires constant hiring, training, and management" |
-| Eudia CLO | Bottleneck to the business | "Legal is increasingly seen as a bottleneck" |
-| Eudia CLO | Overloaded internal team | "With limited headcount and increasing demands" |
-| Unity Industry | Creation bottlenecked | "Only a handful of experts can build or edit in 3D" |
-| BrightEdge | Bandwidth and resourcing | "Teams are lean or under-resourced" |
-| General Legal | Can't keep up | "Legal leaders struggle to keep pace" |
-| Jane | Repetitive admin consuming time | "Scheduling, documentation, and billing eats into nights" |
+| A customer AI agent platform (Series A) | Limited customer coverage | "You can only serve a fraction of your accounts" |
+| A home services AI platform (Series B) | Underfilled job boards | "When inbound demand isn't captured, boards stay underfilled" |
+| A home services AI platform (Series B) | Staffing challenges | "Staffing the phones requires constant hiring, training, and management" |
+| A legal AI platform (Series B) CLO | Bottleneck to the business | "Legal is increasingly seen as a bottleneck" |
+| A legal AI platform (Series B) CLO | Overloaded internal team | "With limited headcount and increasing demands" |
+| An industrial 3D platform (enterprise) | Creation bottlenecked | "Only a handful of experts can build or edit in 3D" |
+| A search marketing platform (enterprise) | Bandwidth and resourcing | "Teams are lean or under-resourced" |
+| An AI-native law firm | Can't keep up | "Legal leaders struggle to keep pace" |
+| A healthcare practice management platform (Series A) | Repetitive admin consuming time | "Scheduling, documentation, and billing eats into nights" |
 
 **Signature words:** bottleneck, stretched, overwhelmed, can't keep up, bandwidth, limited, constrained
 
@@ -108,12 +108,12 @@ Appears in **6 of 10 clients**. Names a consistency, process, or experience fail
 
 | Client | Pillar | Language |
 |--------|--------|---------|
-| Avoca | Inconsistent customer experience | "Customer interactions vary widely depending on who answers" |
-| Agency | Terrible customer experience | "Fragmented engagement, low-value touches, and delayed responses" |
-| TeamOhana | Lack of control | "Teams don't have an effective process for managing headcount" |
-| Unity Industry | Collaboration barriers | "Cross-functional collaboration is fractured" |
-| Snappy | Gifting operations | "Finding vendor and sending right gift is stressful and highly manual" |
-| Eudia ALF | Constrained | "Trapped by client and firm, partners are stuck in a no-win model" |
+| A home services AI platform (Series B) | Inconsistent customer experience | "Customer interactions vary widely depending on who answers" |
+| A customer AI agent platform (Series A) | Terrible customer experience | "Fragmented engagement, low-value touches, and delayed responses" |
+| A headcount management platform (Series B) | Lack of control | "Teams don't have an effective process for managing headcount" |
+| An industrial 3D platform (enterprise) | Collaboration barriers | "Cross-functional collaboration is fractured" |
+| An employee recognition platform (Series B) | Gifting operations | "Finding vendor and sending right gift is stressful and highly manual" |
+| A legal AI platform (Series B) ALF | Constrained | "Trapped by client and firm, partners are stuck in a no-win model" |
 
 **Signature words:** inconsistent, fragmented, fractured, manual, ad hoc, disconnected, broken
 
@@ -122,12 +122,12 @@ Appears in **5 of 10 clients**. Names a value realization, strategic, or percept
 
 | Client | Pillar | Language |
 |--------|--------|---------|
-| Agency | Unrealized value | "Customers don't achieve their desired outcomes" |
-| Unity Games | Discovery and monetization | "Teams lack the insight they need to reach the players" |
-| General Legal | Perceived as cost center | "Legal efforts viewed as a cost to control" |
-| General Legal | Spending too little on strategy | "Legal leaders spend too much time on operational work" |
-| BrightEdge | Limited cross-functional buy-in | "Difficulty getting organizational support" |
-| Snappy | Recipient impact | "Gifts don't feel personal or meaningful" |
+| A customer AI agent platform (Series A) | Unrealized value | "Customers don't achieve their desired outcomes" |
+| A game development platform (enterprise) | Discovery and monetization | "Teams lack the insight they need to reach the players" |
+| An AI-native law firm | Perceived as cost center | "Legal efforts viewed as a cost to control" |
+| An AI-native law firm | Spending too little on strategy | "Legal leaders spend too much time on operational work" |
+| A search marketing platform (enterprise) | Limited cross-functional buy-in | "Difficulty getting organizational support" |
+| An employee recognition platform (Series B) | Recipient impact | "Gifts don't feel personal or meaningful" |
 
 **Signature words:** unrealized, missed, perceived, can't prove, don't understand, doesn't land
 
@@ -136,9 +136,9 @@ Appears in **3 of 10 clients**. Names a data, transparency, or information failu
 
 | Client | Pillar | Language |
 |--------|--------|---------|
-| TeamOhana | Untrusted data | "Headcount data is fragmented across multiple tools" |
-| Unity Industry | Rest of company can't see | "Non-development team members can't visualize the product" |
-| BrightEdge | Reporting complexity | "Data is fragmented across many tools" |
+| A headcount management platform (Series B) | Untrusted data | "Headcount data is fragmented across multiple tools" |
+| An industrial 3D platform (enterprise) | Rest of company can't see | "Non-development team members can't visualize the product" |
+| A search marketing platform (enterprise) | Reporting complexity | "Data is fragmented across many tools" |
 
 **Signature words:** untrusted, fragmented, no visibility, can't see, siloed, scattered
 
@@ -147,9 +147,9 @@ Appears in **3 of 10 clients**. Names a financial waste, inefficiency, or time-s
 
 | Client | Pillar | Language |
 |--------|--------|---------|
-| Eudia CLO | Escalating, inefficient spend | "External counsel costs are climbing, yet most work is routine" |
-| TeamOhana | Wasted time | "Too much time spent pulling, organizing, manipulating data" |
-| Eudia ALF | Eroding client trust | "Clients questioning every bill, viewing firms as overpriced vendors" |
+| A legal AI platform (Series B) CLO | Escalating, inefficient spend | "External counsel costs are climbing, yet most work is routine" |
+| A headcount management platform (Series B) | Wasted time | "Too much time spent pulling, organizing, manipulating data" |
+| A legal AI platform (Series B) ALF | Eroding client trust | "Clients questioning every bill, viewing firms as overpriced vendors" |
 
 **Signature words:** escalating, wasted, overpriced, inefficient, too much time, too much money
 
@@ -175,23 +175,23 @@ The pillars don't just "support" the hero problem -- they **decompose** it along
 Testing this against the corpus:
 
 **Strong decomposition (no overlap):**
-- **TeamOhana:** Data (information) + Control (governance) + Time (productivity) -- three completely distinct dimensions
-- **Avoca:** Revenue capture (demand) + CX quality (experience) + Staffing (supply) -- three distinct operational dimensions
-- **Agency:** Coverage (reach) + Experience (quality) + Value (outcomes) -- clean customer journey decomposition
-- **Eudia CLO:** Speed (throughput) + Cost (spend) + People (capacity) -- three classic operational dimensions
+- **A headcount management platform (Series B):** Data (information) + Control (governance) + Time (productivity) -- three completely distinct dimensions
+- **A home services AI platform (Series B):** Revenue capture (demand) + CX quality (experience) + Staffing (supply) -- three distinct operational dimensions
+- **A customer AI agent platform (Series A):** Coverage (reach) + Experience (quality) + Value (outcomes) -- clean customer journey decomposition
+- **A legal AI platform (Series B) CLO:** Speed (throughput) + Cost (spend) + People (capacity) -- three classic operational dimensions
 
 **Weak decomposition (overlap or gaps):**
-- **General Legal:** P2 ("spending too little on strategy") and P3 ("perceived as cost center") overlap -- both are about not being strategic enough. This makes the pillar set feel like two pillars, not three.
-- **BrightEdge:** P3 ("limited cross-functional buy-in") is thin -- it has one cause and vague consequences. It reads more like a consequence of P1 and P2 than an independent pillar.
-- **Unity Games:** P1 ("platform requirements") and P2 ("live ops demands") are both capacity/overhead problems from the developer's perspective. The distinction (build-time vs. run-time) is real but subtle.
+- **An AI-native law firm:** P2 ("spending too little on strategy") and P3 ("perceived as cost center") overlap -- both are about not being strategic enough. This makes the pillar set feel like two pillars, not three.
+- **A search marketing platform (enterprise):** P3 ("limited cross-functional buy-in") is thin -- it has one cause and vague consequences. It reads more like a consequence of P1 and P2 than an independent pillar.
+- **A game development platform (enterprise):** P1 ("platform requirements") and P2 ("live ops demands") are both capacity/overhead problems from the developer's perspective. The distinction (build-time vs. run-time) is real but subtle.
 
 ### How the hero problem name constrains the pillars
 
 The hero problem name often predicts the pillar architecture:
 
-- **Paradox hero problems** (Agency, Eudia) produce pillars that decompose the paradox into its constituent failures. Agency's paradox is "more people = worse CX," so the pillars show *why*: limited coverage, terrible experience, unrealized value.
-- **Gap hero problems** (Unity Industry, TeamOhana) produce pillars that describe what's on each side of the gap plus the gap itself. Unity Industry: creation is bottlenecked (side A), collaboration is broken (the gap), visibility is missing (side B).
-- **Hidden cost hero problems** (Avoca, TeamOhana) produce pillars that itemize where the cost accumulates. TeamOhana: bad data → broken process → wasted time.
+- **Paradox hero problems** (a customer AI agent platform (Series A), a legal AI platform (Series B)) produce pillars that decompose the paradox into its constituent failures. The customer AI agent platform's (Series A) paradox is "more people = worse CX," so the pillars show *why*: limited coverage, terrible experience, unrealized value.
+- **Gap hero problems** (an industrial 3D platform (enterprise), a headcount management platform (Series B)) produce pillars that describe what's on each side of the gap plus the gap itself. An industrial 3D platform (enterprise): creation is bottlenecked (side A), collaboration is broken (the gap), visibility is missing (side B).
+- **Hidden cost hero problems** (a home services AI platform (Series B), a headcount management platform (Series B)) produce pillars that itemize where the cost accumulates. A headcount management platform (Series B): bad data → broken process → wasted time.
 
 ---
 
@@ -204,21 +204,21 @@ Every client in the corpus maps pain pillars 1:1 to value pillars and outcome pi
 
 | Client | Pain Pillar | Value Pillar | Inversion Type |
 |--------|------------|-------------|----------------|
-| TeamOhana | Untrusted data | Real-time visibility | Negation |
-| TeamOhana | Lack of control | Unified process | Negation |
-| TeamOhana | Wasted time | Automated workflows | Negation |
-| Avoca | Underfilled job boards | Book more jobs | Aspiration |
-| Avoca | Inconsistent CX | Deliver exceptional experiences | Aspiration |
-| Avoca | Staffing challenges | Scale your front office | Aspiration |
-| Agency | Limited coverage | Infinite capacity to serve | Aspiration |
-| Agency | Terrible CX | Single point of contact | Mechanism |
-| Agency | Unrealized value | Complete context on every customer | Mechanism |
-| Eudia CLO | Bottleneck to business | Stop the toil | Negation |
-| Eudia CLO | Escalating spend | Deliver greater business value | Aspiration |
-| Eudia CLO | Overloaded team | Supercharge your network | Aspiration |
-| Unity Industry | Creation bottlenecked | Enable more people to create in 3D | Aspiration |
-| Unity Industry | Collaboration barriers | One place to collaborate in 3D | Mechanism |
-| Unity Industry | Can't see what's built | Immersive experiences for everyone | Aspiration |
+| A headcount management platform (Series B) | Untrusted data | Real-time visibility | Negation |
+| A headcount management platform (Series B) | Lack of control | Unified process | Negation |
+| A headcount management platform (Series B) | Wasted time | Automated workflows | Negation |
+| A home services AI platform (Series B) | Underfilled job boards | Book more jobs | Aspiration |
+| A home services AI platform (Series B) | Inconsistent CX | Deliver exceptional experiences | Aspiration |
+| A home services AI platform (Series B) | Staffing challenges | Scale your front office | Aspiration |
+| A customer AI agent platform (Series A) | Limited coverage | Infinite capacity to serve | Aspiration |
+| A customer AI agent platform (Series A) | Terrible CX | Single point of contact | Mechanism |
+| A customer AI agent platform (Series A) | Unrealized value | Complete context on every customer | Mechanism |
+| A legal AI platform (Series B) CLO | Bottleneck to business | Stop the toil | Negation |
+| A legal AI platform (Series B) CLO | Escalating spend | Deliver greater business value | Aspiration |
+| A legal AI platform (Series B) CLO | Overloaded team | Supercharge your network | Aspiration |
+| An industrial 3D platform (enterprise) | Creation bottlenecked | Enable more people to create in 3D | Aspiration |
+| An industrial 3D platform (enterprise) | Collaboration barriers | One place to collaborate in 3D | Mechanism |
+| An industrial 3D platform (enterprise) | Can't see what's built | Immersive experiences for everyone | Aspiration |
 
 ### Three inversion types
 
@@ -228,7 +228,7 @@ Every client in the corpus maps pain pillars 1:1 to value pillars and outcome pi
 
 3. **Mechanism inversion:** The value pillar names *how* the pain is solved rather than the solved state. "Terrible CX" → "Single point of contact." "Collaboration barriers" → "One place to collaborate in 3D." The most product-specific type -- works when the mechanism is itself a differentiator.
 
-**Best practice:** The strongest pillar sets (TeamOhana, Avoca) use a consistent inversion type across all three pillars. Mixed types (Agency, Eudia) still work but feel less rhythmic.
+**Best practice:** The strongest pillar sets (a headcount management platform (Series B), a home services AI platform (Series B)) use a consistent inversion type across all three pillars. Mixed types (a customer AI agent platform (Series A), a legal AI platform (Series B)) still work but feel less rhythmic.
 
 ---
 
@@ -238,26 +238,26 @@ Every client in the corpus maps pain pillars 1:1 to value pillars and outcome pi
 
 | Client | Why it's strong |
 |--------|----------------|
-| **TeamOhana** | Tightest pillar set in the corpus. Each pillar is exactly 2 words. Each names a different dimension (data, process, time). Each inverts cleanly to a value pillar. No overlap, no gaps. |
-| **Avoca** | Three distinct operational dimensions (demand, quality, supply). Pillar names are concrete and specific. Detailed cause-consequence stacks under each. Strongest use case library. |
-| **Agency** | Clean customer journey decomposition (reach → experience → value). Each pillar escalates in severity. Value pillars are bold and memorable ("infinite capacity," "complete context"). |
+| **A headcount management platform (Series B)** | Tightest pillar set in the corpus. Each pillar is exactly 2 words. Each names a different dimension (data, process, time). Each inverts cleanly to a value pillar. No overlap, no gaps. |
+| **A home services AI platform (Series B)** | Three distinct operational dimensions (demand, quality, supply). Pillar names are concrete and specific. Detailed cause-consequence stacks under each. Strongest use case library. |
+| **A customer AI agent platform (Series A)** | Clean customer journey decomposition (reach → experience → value). Each pillar escalates in severity. Value pillars are bold and memorable ("infinite capacity," "complete context"). |
 
 ### Tier 2: Strong structure, minor weaknesses
 
 | Client | What holds it back |
 |--------|-------------------|
-| **Eudia CLO** | Strong pillars but the pain-to-value mapping crosses over (P1 maps to V3, not V1). The framework compensates with a messaging map, but the cross-mapping adds complexity. |
-| **Unity Industry** | Good decomposition along a creation→collaboration→visibility flow. Pillar names are sentence-length, which makes them harder to reference in shorthand. |
-| **Unity Games** | "Develop, deploy, grow" is an excellent value framework but P1 and P2 on the pain side overlap (both are developer overhead). The pain decomposition is weaker than the solution decomposition. |
+| **A legal AI platform (Series B) CLO** | Strong pillars but the pain-to-value mapping crosses over (P1 maps to V3, not V1). The framework compensates with a messaging map, but the cross-mapping adds complexity. |
+| **An industrial 3D platform (enterprise)** | Good decomposition along a creation→collaboration→visibility flow. Pillar names are sentence-length, which makes them harder to reference in shorthand. |
+| **A game development platform (enterprise)** | "Develop, deploy, grow" is an excellent value framework but P1 and P2 on the pain side overlap (both are developer overhead). The pain decomposition is weaker than the solution decomposition. |
 
 ### Tier 3: Structural gaps
 
 | Client | What's missing |
 |--------|---------------|
-| **General Legal** | P2 and P3 overlap (both about not being strategic). Thin cause-consequence stacks. Proof point section is empty. |
-| **BrightEdge** | P3 is underdeveloped (one cause, vague consequences). Feels like two strong pillars and a placeholder. |
-| **Jane** | Four pillars instead of three. P4 ("running a business is lonely") is emotionally powerful but structurally unusual. The extra pillar could be folded into P1 or treated as a cross-cutting theme. |
-| **Snappy** | P1 ("ad hoc gifting") restates the hero problem rather than decomposing it. The pillar set doesn't clearly differentiate strategy vs. operations vs. impact as distinct dimensions. |
+| **An AI-native law firm** | P2 and P3 overlap (both about not being strategic). Thin cause-consequence stacks. Proof point section is empty. |
+| **A search marketing platform (enterprise)** | P3 is underdeveloped (one cause, vague consequences). Feels like two strong pillars and a placeholder. |
+| **A healthcare practice management platform (Series A)** | Four pillars instead of three. P4 ("running a business is lonely") is emotionally powerful but structurally unusual. The extra pillar could be folded into P1 or treated as a cross-cutting theme. |
+| **An employee recognition platform (Series B)** | P1 ("ad hoc gifting") restates the hero problem rather than decomposing it. The pillar set doesn't clearly differentiate strategy vs. operations vs. impact as distinct dimensions. |
 
 ---
 
@@ -326,12 +326,12 @@ Check: do the three pillars, taken together, fully account for the hero problem?
 
 | Style | Example | Clients | Best for |
 |-------|---------|---------|----------|
-| **Noun phrase (2-3 words)** | "Untrusted data," "Staffing challenges" | TeamOhana, Avoca, Agency, Snappy | Most clients. Clean, referenceable, fits in tables. |
-| **First-person pain statement** | "I can't keep up with the pace of business" | General Legal | Enterprise buyers where empathy with the buyer's voice matters. Harder to reference in shorthand. |
-| **Sentence fragment** | "Creation bottlenecked by lack of specialists" | Unity Industry | When the pillar needs context to make sense. Works in narrative-heavy frameworks. |
-| **Single word + modifier** | "Constrained," "Being left behind" | Eudia ALF | Emotional, identity-level messaging. Very personal. |
+| **Noun phrase (2-3 words)** | "Untrusted data," "Staffing challenges" | A headcount management platform (Series B), a home services AI platform (Series B), a customer AI agent platform (Series A), an employee recognition platform (Series B) | Most clients. Clean, referenceable, fits in tables. |
+| **First-person pain statement** | "I can't keep up with the pace of business" | An AI-native law firm | Enterprise buyers where empathy with the buyer's voice matters. Harder to reference in shorthand. |
+| **Sentence fragment** | "Creation bottlenecked by lack of specialists" | An industrial 3D platform (enterprise) | When the pillar needs context to make sense. Works in narrative-heavy frameworks. |
+| **Single word + modifier** | "Constrained," "Being left behind" | A legal AI platform (Series B) ALF | Emotional, identity-level messaging. Very personal. |
 
-The strongest naming convention is the **2-3 word noun phrase** -- it's specific enough to be meaningful and short enough to travel. TeamOhana's "Untrusted data / Lack of control / Wasted time" is the gold standard.
+The strongest naming convention is the **2-3 word noun phrase** -- it's specific enough to be meaningful and short enough to travel. The headcount management platform's (Series B) "Untrusted data / Lack of control / Wasted time" is the gold standard.
 
 ---
 
@@ -342,9 +342,9 @@ The strongest naming convention is the **2-3 word noun phrase** -- it's specific
 - [[concepts/proof-point-patterns]] -- proof points validate each pillar's consequences
 
 ## Related Clients
-- [[clients/teamohana]] -- Tier 1 model (tightest pillar set)
-- [[clients/avoca]] -- Tier 1 model (strongest cause-consequence stacks)
-- [[clients/agency]] -- Tier 1 model (customer journey decomposition)
-- [[clients/eudia]] -- Tier 2 model (dual narrative pillar architecture)
-- [[clients/unity-industry]] -- Tier 2 model (creation→collaboration→visibility flow)
-- [[clients/unity-games]] -- Tier 2 model ("develop, deploy, grow" value framework)
+- A headcount management platform (Series B) -- Tier 1 model (tightest pillar set)
+- A home services AI platform (Series B) -- Tier 1 model (strongest cause-consequence stacks)
+- A customer AI agent platform (Series A) -- Tier 1 model (customer journey decomposition)
+- A legal AI platform (Series B) -- Tier 2 model (dual narrative pillar architecture)
+- An industrial 3D platform (enterprise) -- Tier 2 model (creation→collaboration→visibility flow)
+- A game development platform (enterprise) -- Tier 2 model ("develop, deploy, grow" value framework)

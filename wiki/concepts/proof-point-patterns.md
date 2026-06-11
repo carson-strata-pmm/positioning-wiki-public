@@ -21,13 +21,13 @@ Performance data that demonstrates capability.
 
 #### 3. Customer Quotes / Testimonials
 Direct language from customers that validates the narrative.
-- **A headcount management platform (Series B):** Extended customer quote about data-driven discussions and budget visibility
-- **An employee recognition platform (Series B):** "61% of employees believe that employers who give gifts are more thoughtful," "81% of employees say that gifts make them feel appreciated"
+- **A headcount management platform (Series B):** An extended customer testimonial describing how the platform enabled data-driven conversations and improved budget visibility
+- **An employee recognition platform (Series B):** Third-party survey data showing that a strong majority of employees view employer gift-giving as a signal of thoughtfulness and feel more appreciated when recognized with gifts
 
 #### 4. Industry Statistics
 Third-party data that validates the hero problem.
-- **A legal AI platform (Series B):** "79% of legal teams reported an increase in matter volume this year"
-- **A home services AI platform (Series B):** "The industry average response time is 30 hours; 90% of leads are gone after 20 seconds"
+- **A legal AI platform (Series B):** Industry survey data showing that roughly four in five legal teams experienced rising matter volumes in the prior year
+- **A home services AI platform (Series B):** Industry benchmarks showing that average response times stretch to 30 hours while the vast majority of leads disengage within seconds
 
 #### 5. Before/After Scenarios
 Narrative proof through use case storytelling.
@@ -36,13 +36,13 @@ Narrative proof through use case storytelling.
 
 #### 6. Differentiation Tables
 Structured comparisons that prove positioning claims.
-- **A legal AI platform (Series B):** Traditional Law Firm vs. Augmented Law Firm across 10 dimensions
+- **A legal AI platform (Series B):** A comparison table contrasting the traditional operating model against an AI-augmented model across 10 dimensions
 - **A headcount management platform (Series B):** vs. Spreadsheets, vs. Platforms, vs. Point Solutions
 
 ## Patterns & Lessons
 - **Most clients have proof point gaps.** Several frameworks contain TBD placeholders (a healthcare practice management platform (Series A), an AI-native law firm, a game development platform (enterprise)). Strata should push harder for proof points during the engagement.
-- **Financial proof is the strongest currency.** The home services AI platform's (Series B) "$800K from a single branch campaign" and the headcount management platform's (Series B) "$294K savings" are the kind of numbers that close deals.
-- **Industry stats validate the hero problem.** The legal AI platform's (Series B) "79% of legal teams saw matter volume increase" makes the speed-to-risk ratio feel real, not theoretical.
+- **Financial proof is the strongest currency.** Specific dollar figures from individual campaigns or cost-avoidance scenarios -- like six-figure savings or high-six-figure revenue from a single initiative -- are the kind of numbers that close deals.
+- **Industry stats validate the hero problem.** Third-party data showing rising workloads or worsening market conditions makes the hero problem feel real, not theoretical.
 - **Before/after scenarios are proof through story.** They don't require hard data but still build credibility by painting a recognizable picture.
 - **Proof points should be versioned.** As clients gather more data post-engagement, proof points need updating. This is an opportunity for ongoing engagement.
 

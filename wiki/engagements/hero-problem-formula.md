@@ -27,16 +27,16 @@ The problem is always a forced trade-off between two things the buyer cares abou
 
 | Client | X | Y | Tension |
 |--------|---|---|---------|
-| A legal AI platform (Series B) | Speed | Risk | "The speed-to-risk ratio" |
-| A customer AI agent platform (Series A) | Scale | Customer intimacy | "The Customer Value Paradox" |
-| A healthcare practice management platform (Series A) | Patient care | Running a business | "The dual responsibility" |
-| A game development platform (enterprise) | Creative ambition | Operational overhead | "The Success Gap" |
-| An industrial 3D platform (enterprise) | 3D design capability | 3D collaboration access | "The Reality Gap" |
-| An AI-native law firm | Legal need | Affordability of expertise | "The Scarcity Constraint" |
-| A home services AI platform (Series B) | Growth ambition | Front-office capacity | "Your growth is hitting a ceiling" |
-| A headcount management platform (Series B) | Headcount spending (70% OPEX) | Process maturity to manage it | "The Headcount Headache" |
-| A search marketing platform (enterprise) | Content creation capability | Discoverability | "Discoverability in the AI era" |
-| An employee recognition platform (Series B) | Recognition intent | Gifting execution | "Ad hoc gifting" |
+| A legal AI platform (Series B) | Speed | Risk | A ratio-framed name (legal velocity vs. exposure) |
+| A customer AI agent platform (Series A) | Scale | Customer intimacy | A paradox-framed name (CX scaling) |
+| A healthcare practice management platform (Series A) | Patient care | Running a business | An identity-burden name (care vs. business) |
+| A game development platform (enterprise) | Creative ambition | Operational overhead | A gap-framed name (creative ambition vs. overhead) |
+| An industrial 3D platform (enterprise) | 3D design capability | 3D collaboration access | A gap-framed name (3D design vs. collaboration) |
+| An AI-native law firm | Legal need | Affordability of expertise | A constraint-framed name (legal expertise access) |
+| A home services AI platform (Series B) | Growth ambition | Front-office capacity | A second-person growth constraint framing |
+| A headcount management platform (Series B) | Headcount spending (70% OPEX) | Process maturity to manage it | An alliterative name (workforce planning pain) |
+| A search marketing platform (enterprise) | Content creation capability | Discoverability | A market-shift framing (search disruption) |
+| An employee recognition platform (Series B) | Recognition intent | Gifting execution | A status-quo-label name (unstrategic recognition) |
 
 **The restatement test:** Every hero problem should be expressible as: "You are forced to choose between X and Y, and that trade-off is costing you more than you realize."
 
@@ -67,7 +67,7 @@ The problem must be architectural, not incidental:
 | A legal AI platform (Series B) | Matter volume up 79% with flat budgets | Operational |
 | A customer AI agent platform (Series A) | 80-90% of enterprise customers underserved | Revenue at risk |
 | An AI-native law firm | Everyday business decisions made without legal judgment | Risk |
-| A healthcare practice management platform (Series A) | "Work eats into your nights," "you feel isolated" | Personal/emotional |
+| A healthcare practice management platform (Series A) | Language describing how work encroaches on personal time and creates professional isolation | Personal/emotional |
 | An industrial 3D platform (enterprise) | Collaboration in PowerPoint while products are designed in 3D | Efficiency |
 | A search marketing platform (enterprise) | Marketing teams ill-equipped for AI-driven search | Competitive |
 | A game development platform (enterprise) | Developers pulled away from creative work | Productivity |
@@ -82,7 +82,7 @@ The problem must be architectural, not incidental:
 ### A. The Paradox
 **Pattern:** The thing you're doing to solve the problem is actually making it worse.
 
-**Model clients:** A customer AI agent platform (Series A) ("The Customer Value Paradox"), a legal AI platform (Series B) ("The speed-to-risk ratio")
+**Model clients:** A customer AI agent platform (Series A) (a paradox-framed name (CX scaling)), a legal AI platform (Series B) (a ratio-framed name (legal velocity vs. exposure))
 
 **Signature language:** "paradox," "irony," "the more you... the less you..."
 
@@ -93,7 +93,7 @@ The problem must be architectural, not incidental:
 ### B. The Gap
 **Pattern:** Two things that should be connected are separated, and the gap costs more than anyone realizes.
 
-**Model clients:** An industrial 3D platform (enterprise) ("The Reality Gap"), a game development platform (enterprise) ("The Success Gap"), a headcount management platform (Series B) ("The Headcount Headache")
+**Model clients:** An industrial 3D platform (enterprise) (a gap-framed name (3D design vs. collaboration)), a game development platform (enterprise) (a gap-framed name (creative ambition vs. overhead)), a headcount management platform (Series B) (an alliterative name (workforce planning pain))
 
 **Signature language:** "gap," "disconnect," "misalignment," "between"
 
@@ -104,7 +104,7 @@ The problem must be architectural, not incidental:
 ### C. The Hidden Cost
 **Pattern:** You're tolerating an enormous cost because you've never measured it.
 
-**Model clients:** A home services AI platform (Series B) ("Your growth is hitting a ceiling"), a headcount management platform (Series B) ("The Headcount Headache")
+**Model clients:** A home services AI platform (Series B) (a second-person growth constraint framing), a headcount management platform (Series B) (an alliterative name (workforce planning pain))
 
 **Signature language:** "leakage," "hidden," "invisible," numbers that shock (70%, $294K, $46K)
 
@@ -115,7 +115,7 @@ The problem must be architectural, not incidental:
 ### D. The Constraint
 **Pattern:** Something valuable is artificially scarce, and the scarcity itself is the problem.
 
-**Model clients:** An AI-native law firm ("The Scarcity Constraint"), a search marketing platform (enterprise) ("Discoverability in the AI era")
+**Model clients:** An AI-native law firm (a constraint-framed name (legal expertise access)), a search marketing platform (enterprise) (a market-shift framing (search disruption))
 
 **Signature language:** "constraint," "scarcity," "reserved for," "rationed," "ill-equipped"
 
@@ -126,7 +126,7 @@ The problem must be architectural, not incidental:
 ### E. The Identity Burden
 **Pattern:** The buyer's professional identity is being split between what they love and what they're forced to do.
 
-**Model clients:** A healthcare practice management platform (Series A) ("The dual responsibility")
+**Model clients:** A healthcare practice management platform (Series A) (an identity-burden name (care vs. business))
 
 **Signature language:** "overwhelmed," "feel," "you're not just," emotional verbs (dread, exhaust, isolate)
 
@@ -141,19 +141,19 @@ The problem must be architectural, not incidental:
 ### Naming conventions
 - **Use "The ___" formula.** 7 of 10 hero problems use a definite article. "The" implies the problem already exists and is waiting to be named, not invented by the vendor.
 - **Use tension words, not product words.** Gap, paradox, ratio, dual, headache, constraint, ceiling -- these are physics words, economics words, body words. They imply a force holding something back.
-- **Aim for 2-4 words.** The strongest names ("The Customer Value Paradox," "The Headcount Headache," "The speed-to-risk ratio") are short enough to say in conversation and specific enough to own.
-- **Alliteration and rhythm help.** "Headcount Headache," "Customer Value," "Reality Gap" -- sonic patterns make names stickier.
+- **Aim for 2-4 words.** The strongest names are short enough to say in conversation and specific enough to own. The Tier 1 examples all achieve this -- a paradox-framed name, an alliterative name, and a ratio-framed name each compress a structural tension into a phrase.
+- **Alliteration and rhythm help.** Sonic patterns make names stickier. The strongest names in the corpus use rhythmic or alliterative word pairings.
 
 ### Buyer-address conventions
 - **Use second person ("your") only for owner-operators.** A home services AI platform (Series B) and a healthcare practice management platform (Series A) address the buyer directly because business pain and personal pain are the same thing for those personas.
-- **Use third person ("the") for enterprise buyers.** "The speed-to-risk ratio" treats the problem as an objective market condition, not a personal failing. Enterprise buyers respond to structural framing, not emotional framing.
+- **Use third person ("the") for enterprise buyers.** The legal AI platform's (Series B) ratio-framed name treats the problem as an objective market condition, not a personal failing. Enterprise buyers respond to structural framing, not emotional framing.
 
 ### Compounding language
 Use language that implies the problem worsens over time without intervention:
-- "compounds until growth stalls" (a home services AI platform (Series B))
-- "the more people you invest... the more challenging it becomes" (a customer AI agent platform (Series A))
-- "matter volumes rise, budgets stay flat" (a legal AI platform (Series B))
-- "every new hire amplifies spreadsheet chaos" (a headcount management platform (Series B))
+- Language describing how inaction compounds into stalled growth (a home services AI platform (Series B))
+- Language describing how adding headcount worsens the very problem it's meant to solve (a customer AI agent platform (Series A))
+- Language describing how rising volume meets flat budgets (a legal AI platform (Series B))
+- Language describing how each new hire amplifies process chaos (a headcount management platform (Series B))
 
 Compounding creates urgency without FUD. The problem isn't scary because something might go wrong -- it's scary because the current trajectory is already going wrong.
 
@@ -162,22 +162,22 @@ Compounding creates urgency without FUD. The problem isn't scary because somethi
 ## Quality Tiers and the Three Tests
 
 ### The three tests
-1. **The name test:** Can you say the name to a stranger in the buyer's role and have them lean in? ("The Headcount Headache" -- yes. "Ad hoc gifting" -- no.)
-2. **The inevitability test:** Does the problem feel structural and worsening, not situational? ("The speed-to-risk ratio is becoming unsustainable" -- yes. "Discoverability in the AI era" -- situational.)
-3. **The pre-product test:** Does the problem resonate before the buyer knows your product exists? ("The Customer Value Paradox" -- absolutely. "The Success Gap" -- only vaguely.)
+1. **The name test:** Can you say the name to a stranger in the buyer's role and have them lean in? (The alliterative name (workforce planning pain) -- yes. The status-quo-label name (unstrategic recognition) -- no.)
+2. **The inevitability test:** Does the problem feel structural and worsening, not situational? (The ratio-framed name (legal velocity vs. exposure) framed as unsustainable -- yes. The market-shift framing (search disruption) -- situational.)
+3. **The pre-product test:** Does the problem resonate before the buyer knows your product exists? (The paradox-framed name (CX scaling) -- absolutely. The gap-framed name (creative ambition vs. overhead) -- only vaguely.)
 
 ### Tier 1: Passes all three tests
-A customer AI agent platform (Series A) ("The Customer Value Paradox"), a legal AI platform (Series B) ("The speed-to-risk ratio"), a headcount management platform (Series B) ("The Headcount Headache")
+A customer AI agent platform (Series A) (a paradox-framed name (CX scaling)), a legal AI platform (Series B) (a ratio-framed name (legal velocity vs. exposure)), a headcount management platform (Series B) (an alliterative name (workforce planning pain))
 
 These names alone tell the story. They combine two archetypes for depth: A customer AI agent platform (Series A) is a paradox with a hidden cost; a headcount management platform (Series B) is a hidden cost in a gap; a legal AI platform (Series B) is a paradox under a constraint.
 
 ### Tier 2: Passes two of three (strong framing, softer name)
-An industrial 3D platform (enterprise) ("The Reality Gap"), an AI-native law firm ("The Scarcity Constraint"), a home services AI platform (Series B) ("Your growth is hitting a ceiling")
+An industrial 3D platform (enterprise) (a gap-framed name (3D design vs. collaboration)), an AI-native law firm (a constraint-framed name (legal expertise access)), a home services AI platform (Series B) (a second-person growth constraint framing)
 
 These need context or explanation to land. They're good framings but weaker names.
 
 ### Tier 3: Passes one or zero (framing without structural depth)
-A game development platform (enterprise) ("The Success Gap"), a healthcare practice management platform (Series A) ("The dual responsibility"), a search marketing platform (enterprise) ("Discoverability in the AI era"), an employee recognition platform (Series B) ("Ad hoc gifting")
+A game development platform (enterprise) (a gap-framed name (creative ambition vs. overhead)), a healthcare practice management platform (Series A) (an identity-burden name (care vs. business)), a search marketing platform (enterprise) (a market-shift framing (search disruption)), an employee recognition platform (Series B) (a status-quo-label name (unstrategic recognition))
 
 These fail the "say it to a stranger" test. They describe a problem space but don't compress a structural tension into a phrase that stops someone.
 
@@ -211,7 +211,7 @@ Consider layering two archetypes for depth.
 Apply the naming conventions: "The [Noun] [Tension Word]," 2-4 words, tension words not product words, alliteration if possible. Test against the three tests (name, inevitability, pre-product). If it doesn't pass at least two, iterate.
 
 ### Step 6: Validate in the buyer's language
-The name should use words the buyer would use, not words the vendor would use. If the buyer wouldn't say "paradox," don't use "paradox." the headcount management platform's (Series B) "Headcount Headache" works because every VP of Finance has said the word "headache" about headcount management.
+The name should use words the buyer would use, not words the vendor would use. If the buyer wouldn't say "paradox," don't use "paradox." The headcount management platform's (Series B) alliterative name works because every VP of Finance has used that exact pain word about headcount management.
 
 ---
 

@@ -28,22 +28,22 @@ ICP (Ideal Customer Profile) signal patterns are the recurring characteristics, 
 ### Stage & Vertical Signals
 - **PE-backed portfolios:** A home services AI platform (Series B) (digital transformation leads managing multi-location service businesses) and a headcount management platform (Series B) (finance leaders managing rapid headcount scaling).
 - **AI-native startups:** A customer AI agent platform (Series A) targets founders who build around AI from day one and are receptive to AI-first CX.
-- **Enterprise long tail:** A customer AI agent platform (Series A) also targets the 80-90% of enterprise customers who are underserved by legacy success teams.
+- **Enterprise underserved segment:** A customer AI agent platform (Series A) also targets the large majority of enterprise customers who are underserved by legacy success teams.
 - **Scaling companies:** An AI-native law firm targets companies that have outgrown ad hoc legal but can't justify a full in-house team.
-- **High-volume service businesses:** A home services AI platform (Series B) targets businesses where call volume, seasonal spikes, and CSR churn create a structural revenue leak.
+- **High-volume service businesses:** A home services AI platform (Series B) targets businesses where high call volume, seasonal demand swings, and frontline staff turnover create persistent revenue loss.
 
 ### Trigger Events
-- **CSR churn cycle** (a home services AI platform (Series B)): Every departure resets the customer experience.
-- **Matter volume surge** (a legal AI platform (Series B)): Legal teams report rising complexity and volume with flat budgets.
-- **Headcount growth** (a headcount management platform (Series B)): Every new hire amplifies spreadsheet chaos.
-- **Platform fragmentation** (a game development platform (enterprise)): Multi-platform launches require stitching together disconnected tools.
-- **AI disruption of search** (a search marketing platform (enterprise)): SGE and generative AI changing how content is discovered.
+- **Frontline staff turnover** (a home services AI platform (Series B)): Each departure forces the organization to rebuild institutional knowledge and customer rapport from scratch.
+- **Rising legal workload** (a legal AI platform (Series B)): Legal teams face growing complexity and case volume without proportional budget increases.
+- **Rapid workforce expansion** (a headcount management platform (Series B)): Each new hire compounds the complexity of manual planning processes.
+- **Toolchain fragmentation** (a game development platform (enterprise)): Launching across multiple platforms requires cobbling together disconnected point solutions.
+- **AI-driven channel disruption** (a search marketing platform (enterprise)): Generative AI is reshaping how content surfaces in search results.
 
 ## Patterns & Lessons
 - **Multi-buyer engagements are the norm.** Most B2B deals involve at least two buyer personas, with the messaging framework needing distinct language for each.
 - **Owner-operators are a unique archetype.** A home services AI platform (Series B) and a healthcare practice management platform (Series A) both target owner-operators who wear every hat. Messaging for this persona must be empathetic, not corporate.
-- **Stage-based segmentation matters more than industry.** An AI-native law firm segments by "Scale" vs. "Growth" stage, not by vertical. A headcount management platform (Series B) similarly maps to company growth phase.
-- **The "long tail" opportunity is underappreciated.** A customer AI agent platform (Series A) explicitly targets the 80-90% of enterprise customers that legacy teams ignore. This is a powerful framing for AI-first products.
+- **Stage-based segmentation matters more than industry.** An AI-native law firm segments by company maturity stage rather than by vertical. A headcount management platform (Series B) similarly maps to company growth phase.
+- **The underserved majority is an underappreciated opportunity.** A customer AI agent platform (Series A) explicitly targets the large majority of enterprise customers that legacy teams ignore. This is a powerful framing for AI-first products.
 - **Trigger events create urgency.** The best messaging connects to a moment of acute pain, not a chronic condition.
 
 ## Related Concepts

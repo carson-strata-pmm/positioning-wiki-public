@@ -10,7 +10,7 @@ This article analyzes the hero problem framing section across all client engagem
 Every hero problem in the wiki, regardless of industry or category stance, follows a three-layer structure:
 
 ### Layer 1: A named tension the buyer lives with daily
-The problem isn't introduced as "your software is bad" or "you need a better tool." It's introduced as a tension between two things the buyer already cares about that they've been forced to trade off against each other:
+The problem isn't introduced as a simple software gap or tool deficiency. It's introduced as a tension between two things the buyer already cares about that they've been forced to trade off against each other:
 
 | Client | Tension |
 |--------|---------|
@@ -45,11 +45,11 @@ Every hero problem connects to a consequence the buyer either hasn't measured or
 - **A home services AI platform (Series B):** ~$46K per CSR churn event, 90% of leads lost after 20 seconds
 - **A headcount management platform (Series B):** $294K average in unapproved headcount costs
 - **A legal AI platform (Series B):** Matter volume rising 79% with flat budgets
-- **A customer AI agent platform (Series A):** The 80-90% "long tail" of customers that go unserved
+- **A customer AI agent platform (Series A):** The 80-90% long tail of customers that go unserved
 - **An AI-native law firm:** Everyday decisions made without legal judgment
 - **An employee recognition platform (Series B):** Inequitable gifting experiences eroding engagement
 
-The consequence doesn't have to be financial -- The healthcare practice management platform's (Series A) consequence is personal ("work eats into your nights," "you feel isolated") -- but it must be specific enough to feel measurable.
+The consequence doesn't have to be financial -- the healthcare practice management platform's (Series A) consequence is personal (language describing how work encroaches on personal time and creates professional isolation) -- but it must be specific enough to feel measurable.
 
 ## Problem Archetypes
 
@@ -71,8 +71,8 @@ Five distinct archetypes emerge from the 10 hero problems:
 
 | Client | Gap |
 |--------|-----|
-| An industrial 3D platform (enterprise) | "The Reality Gap" -- 3D design vs. flat collaboration |
-| A game development platform (enterprise) | "The Success Gap" -- creative work vs. operational overhead |
+| An industrial 3D platform (enterprise) | A gap-framed name (3D design vs. collaboration) -- 3D design vs. flat collaboration |
+| A game development platform (enterprise) | A gap-framed name (creative ambition vs. overhead) -- creative work vs. operational overhead |
 | A headcount management platform (Series B) | The gap between FP&A and HRIS that headcount falls into |
 
 **Signature language:** "gap," "disconnect," "misalignment," "between"
@@ -105,12 +105,12 @@ Five distinct archetypes emerge from the 10 hero problems:
 
 | Client | Burden |
 |--------|--------|
-| A healthcare practice management platform (Series A) | "You're not just the clinician -- you're the admin, the owner, the systems department" |
+| A healthcare practice management platform (Series A) | Language enumerating the many roles the practitioner is forced to fill beyond their clinical identity |
 
 **Signature language:** "overwhelmed," "feel," "you're not just," emotional verbs (dread, exhaust, isolate)
 **When it works:** Owner-operators and solo buyers where the personal and professional are inseparable. The most emotionally resonant archetype but the narrowest in applicability.
 
-**Note:** An employee recognition platform (Series B) doesn't cleanly fit one archetype. "Ad hoc gifting" is part hidden cost (treating gifting as a checkbox), part constraint (lack of expertise and bandwidth). It's the weakest hero problem in the corpus.
+**Note:** An employee recognition platform (Series B) doesn't cleanly fit one archetype. Its hero problem, a status-quo-label name (unstrategic recognition), is part hidden cost (treating gifting as a checkbox), part constraint (lack of expertise and bandwidth). It's the weakest hero problem in the corpus.
 
 ## Language Patterns
 
@@ -121,36 +121,36 @@ Five distinct archetypes emerge from the 10 hero problems:
 A cluster of words recur across hero problems to signal structural conflict: gap, paradox, ratio, dual, headache, constraint, ceiling. These are all words that imply a force holding something back -- a limit, a contradiction, a barrier. None of them are product words. They're physics words, economics words, body words.
 
 ### Second-person address
-A home services AI platform (Series B) and a healthcare practice management platform (Series A) both address the buyer directly: "Your growth is hitting a ceiling," "The dual responsibility... can feel overwhelming." This is used exclusively for owner-operator personas where business pain and personal pain are the same thing.
+A home services AI platform (Series B) and a healthcare practice management platform (Series A) both address the buyer directly -- the former with a second-person growth constraint framing, the latter with an identity-burden name (care vs. business) that makes the systemic feel personal. This is used exclusively for owner-operator personas where business pain and personal pain are the same thing.
 
 ### Compounding language
-Multiple hero problems use language that implies the problem gets worse over time without intervention: "compounds until growth stalls" (a home services AI platform (Series B)), "the more people you invest... the more challenging it becomes" (a customer AI agent platform (Series A)), "matter volumes rise, budgets stay flat" (a legal AI platform (Series B)), "every new hire amplifies spreadsheet chaos" (a headcount management platform (Series B)). This creates urgency without FUD -- the problem isn't scary because something might go wrong, it's scary because the current trajectory is already going wrong.
+Multiple hero problems use language that implies the problem gets worse over time without intervention: language describing how inaction compounds into stalled growth (a home services AI platform (Series B)), how adding headcount worsens the very problem it's meant to solve (a customer AI agent platform (Series A)), how rising volume meets flat budgets (a legal AI platform (Series B)), and how each new hire amplifies process chaos (a headcount management platform (Series B)). This creates urgency without FUD -- the problem isn't scary because something might go wrong, it's scary because the current trajectory is already going wrong.
 
 ## Quality Tiers
 
 ### Tier 1: Complete on all three layers
 | Client | Hero Problem | Why it's strong |
 |--------|-------------|-----------------|
-| A customer AI agent platform (Series A) | "The Customer Value Paradox" | The name itself is the argument. Self-contained: you don't need context to understand it. |
-| A legal AI platform (Series B) | "The speed-to-risk ratio" | Mathematically precise. "Ratio" implies it can be measured and optimized -- natural bridge to the product. |
-| A headcount management platform (Series B) | "The Headcount Headache" | Alliterative, visceral, universally felt. Easiest to say aloud, most likely to travel through an organization. |
+| A customer AI agent platform (Series A) | A paradox-framed name (CX scaling) | The name itself is the argument. Self-contained: you don't need context to understand it. |
+| A legal AI platform (Series B) | A ratio-framed name (legal velocity vs. exposure) | Mathematically precise. The ratio framing implies it can be measured and optimized -- natural bridge to the product. |
+| A headcount management platform (Series B) | An alliterative name (workforce planning pain) | Alliterative, visceral, universally felt. Easiest to say aloud, most likely to travel through an organization. |
 
 **What they share:** The name alone tells the story.
 
 ### Tier 2: Strong framing, softer name
 | Client | Hero Problem | What holds it back |
 |--------|-------------|-------------------|
-| An industrial 3D platform (enterprise) | "The Reality Gap" | Abstract without the narrative. Requires setup. |
-| An AI-native law firm | "The Scarcity Constraint" | Intellectually precise but doesn't trigger emotion. |
-| A home services AI platform (Series B) | "Your growth is hitting a ceiling" | Strong because it's personal, but it's a sentence, not a name. |
+| An industrial 3D platform (enterprise) | A gap-framed name (3D design vs. collaboration) | Abstract without the narrative. Requires setup. |
+| An AI-native law firm | A constraint-framed name (legal expertise access) | Intellectually precise but doesn't trigger emotion. |
+| A home services AI platform (Series B) | A second-person growth constraint framing | Strong because it's personal, but it's a sentence, not a name. |
 
 ### Tier 3: Framing without structural depth
 | Client | Hero Problem | What's missing |
 |--------|-------------|---------------|
-| A game development platform (enterprise) | "The Success Gap" | Could describe almost any B2B problem. Not specific enough to own. |
-| A healthcare practice management platform (Series A) | "The dual responsibility" | Emotionally powerful in context but reads as a section header, not a named problem. |
-| A search marketing platform (enterprise) | "Discoverability in the AI era" | Descriptive but not a name. A topic, not a tension. |
-| An employee recognition platform (Series B) | "Ad hoc gifting" | Weakest in the corpus. Describes status quo without naming a tension, cost, or surprise. |
+| A game development platform (enterprise) | A gap-framed name (creative ambition vs. overhead) | Could describe almost any B2B problem. Not specific enough to own. |
+| A healthcare practice management platform (Series A) | An identity-burden name (care vs. business) | Emotionally powerful in context but reads as a section header, not a named problem. |
+| A search marketing platform (enterprise) | A market-shift framing (search disruption) | Descriptive but not a name. A topic, not a tension. |
+| An employee recognition platform (Series B) | A status-quo-label name (unstrategic recognition) | Weakest in the corpus. Describes status quo without naming a tension, cost, or surprise. |
 
 ## The Universal Formula
 

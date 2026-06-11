@@ -8,29 +8,29 @@ Strata uses several repeatable opening moves. The choice depends on the client's
 
 ### 1. Indict the Status Quo
 Frame the current approach as fundamentally broken, not just underperforming. The buyer realizes they've been tolerating a structural failure.
-- **A legal AI platform (Series B):** "The old solutions -- people, software, and outside counsel -- come with trade-offs" that are now unsustainable.
-- **A customer AI agent platform (Series A):** "We reflexively hire more people as we grow to serve our customers. But the truth is, the more people you invest... the more challenging it becomes."
-- **An AI-native law firm:** "The traditional legal model has made elite legal expertise a scarce resource."
+- **A legal AI platform (Series B):** Opened by cataloguing the three incumbent approaches (people, software, outside counsel) and framing each as carrying trade-offs that are now unsustainable.
+- **A customer AI agent platform (Series A):** Opened by describing the reflexive instinct to hire more people at scale, then revealing that this investment actually makes outcomes worse.
+- **An AI-native law firm:** Opened by framing elite legal expertise as artificially scarce under the traditional model.
 
 ### 2. Name a Paradox
 Reveal a hidden contradiction in the buyer's current strategy. The thing they think is helping is actually hurting.
-- **A customer AI agent platform (Series A):** The "Customer Value Paradox" -- investing more in human CX actually degrades outcomes.
-- **A legal AI platform (Series B):** Speed and risk are in permanent tension; every gain in one costs the other.
+- **A customer AI agent platform (Series A):** Named a paradox — expressed through a coined term — that captured how investing more in human CX actually degrades outcomes.
+- **A legal AI platform (Series B):** Named the inherent tension between speed and risk, framing them as permanently opposed under current approaches — expressed through a coined phrase highlighting this tradeoff.
 
 ### 3. Surface a Hidden Cost
 Quantify what the buyer doesn't realize they're losing. Make the invisible visible.
-- **A home services AI platform (Series B):** "~$46K in impact per churn event" for CSR turnover. Revenue leakage from missed calls is invisible until measured.
-- **A headcount management platform (Series B):** 70% of OPEX managed on spreadsheets, with $294K average in unapproved headcount costs.
+- **A home services AI platform (Series B):** Quantified the per-event cost of CSR turnover at approximately $46K in impact. Revenue leakage from missed calls is invisible until measured.
+- **A headcount management platform (Series B):** Surfaced that 70% of OPEX is managed on spreadsheets, with $294K average in unapproved headcount costs.
 
 ### 4. Reframe the Market
 Redefine the category or market landscape so the buyer sees the world differently.
-- **A search marketing platform (enterprise):** Search is evolving from a navigational pursuit into a conversational dialogue driven by AI. The old SEO playbook is obsolete.
-- **An industrial 3D platform (enterprise):** "The Reality Gap" -- industries building critical products are still collaborating in PowerPoint while gaming has bleeding-edge 3D tools.
+- **A search marketing platform (enterprise):** Reframed search as evolving from a navigational activity into an AI-driven conversational experience, rendering the traditional SEO playbook obsolete.
+- **An industrial 3D platform (enterprise):** Coined a name for the gap between industries building critical products with outdated collaboration tools and the bleeding-edge 3D tools available in gaming — a vivid market-reframe label that made the disparity impossible to ignore.
 
 ### 5. Invoke an Inevitable Future
 Present the coming change as unstoppable and position the buyer as either leading or being left behind.
-- **A legal AI platform (Series B):** "AI is how tomorrow's corporate legal teams will transcend the speed-to-risk ratio. You can lead the way or be left behind."
-- **A customer AI agent platform (Series A):** "The future of customer success isn't more people -- it's autonomous AI agents."
+- **A legal AI platform (Series B):** Closed the opening by framing AI adoption in corporate legal as inevitable and presenting the buyer with a binary choice: lead the transformation or be left behind.
+- **A customer AI agent platform (Series A):** Declared that the future of customer success belongs to autonomous AI agents, not larger human teams.
 
 ## Patterns & Lessons
 - **Most narratives combine 2-3 opening strategies.** A legal AI platform (Series B), for instance, indicts the status quo, names a paradox (speed vs. risk), and invokes an inevitable future.
@@ -47,9 +47,9 @@ Present the coming change as unstoppable and position the buyer as either leadin
 
 ## Related Clients
 - A legal AI platform (Series B) — combines indictment, paradox, and inevitable future
-- A customer AI agent platform (Series A) — paradox-driven opening ("Customer Value Paradox")
+- A customer AI agent platform (Series A) — paradox-driven opening (coined a term for the CX investment contradiction)
 - A home services AI platform (Series B) — hidden cost and status quo indictment
 - A search marketing platform (enterprise) — market reframe around AI-driven search
-- An industrial 3D platform (enterprise) — "The Reality Gap" as market reframe
+- An industrial 3D platform (enterprise) — coined a gap-concept name as market reframe
 - An AI-native law firm — indicts the scarcity of traditional legal models
 - A headcount management platform (Series B) — hidden cost (spreadsheet chaos managing 70% of OPEX)

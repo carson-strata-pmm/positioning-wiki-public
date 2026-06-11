@@ -11,22 +11,22 @@ The hero problem is the single, named problem that anchors an entire narrative. 
 
 ## Examples from Client Work
 
-| Client | Hero Problem Name | Framing |
-|--------|------------------|---------|
-| A home services AI platform (Series B) | "Your growth is hitting a ceiling" | Revenue leakage at every stage of the customer journey compounds until growth stalls. Operational framing: missed calls, dropped leads, staffing churn. |
-| A customer AI agent platform (Series A) | "The Customer Value Paradox" / "The Bureaucracy Bottleneck" | The more people you invest in customer experience, the worse it gets. Paradox framing that indicts the human-led model. |
-| A legal AI platform (Series B) | "The speed-to-risk ratio" | Legal sits between two conflicting demands: speed and risk. Accelerating business pace makes the old balance unsustainable. |
-| A headcount management platform (Series B) | "The Headcount Headache" | 70% of OPEX is managed through spreadsheets and disconnected teams. Operational failure framing. |
-| An industrial 3D platform (enterprise) | "The Reality Gap" | Products are designed in 3D but collaboration happens in flat files and screenshots. Perception gap framing. |
-| A game development platform (enterprise) | "The Success Gap" | Making a successful game requires more than ever, but the overhead pulls developers away from creative work. |
-| A healthcare practice management platform (Series A) | "The dual responsibility" | Practitioners are overwhelmed balancing patient care with running a business. Emotional/identity framing. |
-| A search marketing platform (enterprise) | "Discoverability in the AI era" | Traditional SEO is being disrupted by generative AI search, and marketing teams are ill-equipped. Market shift framing. |
-| An AI-native law firm | "The Scarcity Constraint" | Elite legal expertise is artificially scarce, forcing companies to ration it for high-stakes moments only. |
-| An employee recognition platform (Series B) | "Ad hoc gifting" | Gifting is treated as a checkbox, not a strategy, because teams lack expertise, bandwidth, and tooling. |
+| Client | Hero Problem Approach | Framing |
+|--------|----------------------|---------|
+| A home services AI platform (Series B) | A second-person growth ceiling statement aimed at owner-operators | Revenue leakage at every stage of the customer journey compounds until growth stalls. Operational framing: missed calls, dropped leads, staffing churn. |
+| A customer AI agent platform (Series A) | A paradox name highlighting the counterproductive nature of CX investment, paired with a bureaucratic inefficiency label | The more people you invest in customer experience, the worse it gets. Paradox framing that indicts the human-led model. |
+| A legal AI platform (Series B) | A tension-ratio name capturing the conflict between velocity and compliance | Legal sits between two conflicting demands: speed and risk. Accelerating business pace makes the old balance unsustainable. |
+| A headcount management platform (Series B) | An alliterative pain-label using body-language metaphor for workforce planning frustration | 70% of OPEX is managed through spreadsheets and disconnected teams. Operational failure framing. |
+| An industrial 3D platform (enterprise) | A two-word gap name contrasting digital design with analog collaboration | Products are designed in 3D but collaboration happens in flat files and screenshots. Perception gap framing. |
+| A game development platform (enterprise) | A two-word gap name highlighting the distance between ambition and achievement in game development | Making a successful game requires more than ever, but the overhead pulls developers away from creative work. |
+| A healthcare practice management platform (Series A) | A short phrase naming the identity split practitioners face between clinical and business roles | Practitioners are overwhelmed balancing patient care with running a business. Emotional/identity framing. |
+| A search marketing platform (enterprise) | A phrase framing the challenge of being found in a new AI-driven search landscape | Traditional SEO is being disrupted by generative AI search, and marketing teams are ill-equipped. Market shift framing. |
+| An AI-native law firm | A two-word constraint name highlighting the artificial bottleneck on expert legal talent | Elite legal expertise is artificially scarce, forcing companies to ration it for high-stakes moments only. |
+| An employee recognition platform (Series B) | A two-word label exposing the unstructured, checkbox nature of current gifting practices | Gifting is treated as a checkbox, not a strategy, because teams lack expertise, bandwidth, and tooling. |
 
 ## Patterns & Lessons
 - **Name it to claim it.** Every successful engagement produces a named problem. The name is often the single most important creative output.
-- **Paradox framing is powerful.** Several hero problems (a customer AI agent platform (Series A), a legal AI platform (Series B)) use a paradox: "the thing you're doing to fix the problem is actually making it worse." This stops buyers in their tracks.
+- **Paradox framing is powerful.** Several hero problems (a customer AI agent platform (Series A), a legal AI platform (Series B)) use a paradox: the thing you're doing to fix the problem is actually making it worse. This stops buyers in their tracks.
 - **Structural > situational.** The best hero problems feel inevitable, not anecdotal. They describe a system failure, not a bad quarter.
 - **The hero problem is not the product pitch.** It must resonate *before* the product is introduced. If it only makes sense after hearing the solution, it's too product-centric.
 - **Revenue, cost, risk cascade.** Every hero problem connects to measurable negative consequences. This bridges emotional resonance with economic urgency.
@@ -71,9 +71,9 @@ HERO PROBLEM = Named Tension + Structural Cause + Hidden Consequence
 ### Language Patterns
 - **Use "The ___" naming formula.** 7 of 10 hero problems use a definite article -- implies the problem already exists and is waiting to be named.
 - **Use tension words, not product words.** Gap, paradox, ratio, dual, headache, constraint, ceiling -- physics words, economics words, body words.
-- **Use compounding language.** "Compounds until growth stalls," "the more you invest, the more challenging it becomes" -- creates urgency without FUD.
-- **Use second person only for owner-operators.** "Your growth" (a home services AI platform (Series B)), "you feel overwhelmed" (a healthcare practice management platform (Series A)) -- only when business and personal pain are the same.
-- **Aim for 2-4 words with alliteration or rhythm.** "Headcount Headache," "Customer Value Paradox," "Reality Gap."
+- **Use compounding language.** Phrases that convey accumulating damage or self-reinforcing failure loops -- creates urgency without FUD.
+- **Use second person only for owner-operators.** Direct address framing (a home services AI platform (Series B)), emotionally personal framing (a healthcare practice management platform (Series A)) -- only when business and personal pain are the same.
+- **Aim for 2-4 words with alliteration or rhythm.** Names that use phonetic repetition, balanced cadence, or a recognizable structural pattern.
 
 ## Related Concepts
 - [[pov-opening-strategies]] — the hero problem is the setup; the opening strategy is the move that follows
@@ -84,13 +84,13 @@ HERO PROBLEM = Named Tension + Structural Cause + Hidden Consequence
 - [[engagements/hero-problem-formula]] — the universal formula with applied guidance for new engagements
 
 ## Related Clients
-- A home services AI platform (Series B) — "Your growth is hitting a ceiling"
-- A customer AI agent platform (Series A) — "The Customer Value Paradox"
-- A legal AI platform (Series B) — "The speed-to-risk ratio"
-- A headcount management platform (Series B) — "The Headcount Headache"
-- An industrial 3D platform (enterprise) — "The Reality Gap"
-- A game development platform (enterprise) — "The Success Gap"
-- A healthcare practice management platform (Series A) — "The dual responsibility"
-- A search marketing platform (enterprise) — "Discoverability in the AI era"
-- An AI-native law firm — "The Scarcity Constraint"
-- An employee recognition platform (Series B) — "Ad hoc gifting"
+- A home services AI platform (Series B) — second-person growth ceiling framing
+- A customer AI agent platform (Series A) — paradox name exposing the counterproductive nature of scaling CX with people
+- A legal AI platform (Series B) — tension-ratio name capturing conflicting demands on legal teams
+- A headcount management platform (Series B) — alliterative pain-label for workforce planning dysfunction
+- An industrial 3D platform (enterprise) — two-word gap name contrasting design and collaboration modalities
+- A game development platform (enterprise) — two-word gap name for the ambition-overhead divide
+- A healthcare practice management platform (Series A) — short identity-split phrase for clinical vs. business burden
+- A search marketing platform (enterprise) — market-shift phrase for AI-era findability
+- An AI-native law firm — two-word constraint name for artificial scarcity of legal expertise
+- An employee recognition platform (Series B) — two-word label exposing unstructured gifting practices

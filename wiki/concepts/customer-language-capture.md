@@ -12,18 +12,18 @@ Customer language capture is the practice of preserving the exact words, phrases
 ## Examples from Client Work
 
 ### Interview-Derived Language
-- **A home services AI platform (Series B):** The co-founder interview explored questions like "In 12 months, what do you want a home services AI platform (Series B) to be known as?" and "Why do you truly win deals?" These discovery questions surface the language that distinguishes how a company thinks about itself vs. how the market sees them.
-- **An industrial 3D platform (enterprise):** A stakeholder interview surfaced the "infinite grind" concept and refined the "develop, deploy, grow" framework. The interview also revealed that "develop, deploy, grow" was already found across many operational plans, indicating strong internal alignment.
-- **A legal AI platform (Series B):** CLO interviews revealed that lawyers are "academic and skeptical" and respond to language that feels "insider," which directly shaped the brand voice guidance.
+- **A home services AI platform (Series B):** The co-founder interview explored forward-looking aspirational questions (what the company wants to be known for in 12 months) and competitive win-analysis questions (why they truly close deals). These discovery questions surface the language that distinguishes how a company thinks about itself vs. how the market sees them.
+- **An industrial 3D platform (enterprise):** A stakeholder interview surfaced a vivid metaphor for the endless repetitive work in 3D workflows and refined a three-phase lifecycle framework for the product. The interview also revealed that the lifecycle framework language was already appearing across internal operational plans, indicating strong internal alignment.
+- **A legal AI platform (Series B):** CLO interviews revealed that lawyers are academically oriented and skeptical by nature, and respond to language that feels like insider expertise, which directly shaped the brand voice guidance.
 
 ### Pain Language Patterns
-| Client | Customer Pain Language | How Used in Messaging |
+| Client | Customer Pain Language (Paraphrased) | How Used in Messaging |
 |--------|----------------------|----------------------|
-| A home services AI platform (Series B) | "The front office is the most important function... yet it runs on the most volatile workforce" | Directly shaped the CSR instability pillar |
-| A customer AI agent platform (Series A) | "More hands create worse customer outcomes" | Became a candidate hero problem name |
-| A headcount management platform (Series B) | "I've seen significant progress with the new process, particularly in making discussions more data-driven" | Used as validation quote in framework |
-| A healthcare practice management platform (Series A) | "You're not just the clinician -- you're the admin, the owner, the systems department, and the entire support staff" | Opens the problem section with empathetic buyer language |
-| A legal AI platform (Series B) | "It's like outfitting every attorney in your network with an Iron Man suit" | Metaphor used in the CLO narrative POV |
+| A home services AI platform (Series B) | A statement contrasting the critical importance of front-office operations with the instability of the workforce running them | Directly shaped the CSR instability pillar |
+| A customer AI agent platform (Series A) | A concise observation that scaling headcount paradoxically worsens customer outcomes | Became a candidate hero problem name |
+| A headcount management platform (Series B) | A customer testimonial affirming that the new process made headcount discussions more data-driven | Used as validation quote in framework |
+| A healthcare practice management platform (Series A) | A vivid enumeration of all the roles a solo practitioner must juggle — clinician, admin, owner, IT, support staff | Opens the problem section with empathetic buyer language |
+| A legal AI platform (Series B) | A pop-culture metaphor comparing the platform's impact to giving every attorney a superhero-level upgrade | Metaphor used in the CLO narrative POV |
 
 ### Interview Guide Structure
 Strata's CEO interview template covers:
@@ -36,8 +36,8 @@ Strata's CEO interview template covers:
 ## Patterns & Lessons
 - **The interview guide is a core framework asset.** It's not just a conversation guide -- it's a systematic extraction tool. The questions are designed to surface language that maps to the messaging framework.
 - **"Why are you here?" is the most important question.** When executives explain why they hired Strata, they often articulate the hero problem more clearly than any positioning document.
-- **Empathetic language matters for owner-operators.** A healthcare practice management platform (Series A) and a home services AI platform (Series B) both target people who wear every hat. The messaging adopts a warmer, more personal tone ("you feel overwhelmed," "it's wearing you down") that mirrors how these buyers actually talk.
-- **Academic buyers need different language.** The legal AI platform's (Series B) framework explicitly notes that lawyers respond to "academic, insider, inventive" language. Generic SaaS copy would fail with this audience.
+- **Empathetic language matters for owner-operators.** A healthcare practice management platform (Series A) and a home services AI platform (Series B) both target people who wear every hat. The messaging adopts a warmer, more personal tone — language that mirrors feelings of overwhelm and burnout — that reflects how these buyers actually talk.
+- **Academic buyers need different language.** The legal AI platform's (Series B) framework explicitly notes that lawyers respond to language that is academic, insider-oriented, and inventive. Generic SaaS copy would fail with this audience.
 - **Internal language ≠ customer language.** A recurring challenge is when internal teams use product jargon that customers don't recognize. The interview process surfaces what customers actually say, not what the product team wishes they said.
 
 ## Related Concepts

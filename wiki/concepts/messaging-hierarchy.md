@@ -54,15 +54,15 @@ Strata typically delivers two core documents per engagement:
 1. **POV / Strategic Narrative** -- an internal alignment document that tells the company's story. Not meant to be shared externally, but the spirit should manifest everywhere.
 2. **Messaging Framework** -- the operational blueprint for marketing and sales. Contains the full hierarchy from audience through copy bank.
 
-the legal AI platform's (Series B) engagement also produced a **Messaging Map** explaining the hierarchy and relationship between documents.
+A legal AI platform's (Series B) engagement also produced a **Messaging Map** explaining the hierarchy and relationship between documents.
 
 ## Patterns & Lessons
 - **Three pillars is the magic number.** Every engagement converges on three. Two feels incomplete; four loses focus. The pillars create a rhythm that's easy to remember and present.
 - **Symmetry drives clarity.** Each pain pillar should have a corresponding value pillar and outcome. If the mapping breaks, the messaging has a structural problem.
 - **The POV and the framework serve different audiences.** The POV is for internal alignment (whole company). The framework is for marketing/content teams. Conflating them weakens both.
 - **Copy banks are undervalued.** The taglines, 25-word, 50-word, and elevator pitch sections are often the most used outputs. They get pasted directly into websites, pitch decks, and sales scripts.
-- **Use cases with before/after format are powerful.** The home services AI platform's (Series B) use cases (e.g., "A customer calls during a busy Monday morning...") tell micro-stories that sales teams can retell. The before/after structure mirrors the hero problem framing at a tactical level.
-- **Brand voice is rarely a core deliverable** but matters for academic/skeptical audiences. The legal AI platform's (Series B) framework explicitly defines voice as "academic, insider, inventive, premium, communal, trustworthy" because lawyers are a uniquely skeptical buyer.
+- **Use cases with before/after format are powerful.** A home services AI platform's (Series B) use cases painted micro-scenarios of a typical busy day -- depicting the contrast between missed opportunities and automated responsiveness. The before/after structure mirrors the hero problem framing at a tactical level.
+- **Brand voice is rarely a core deliverable** but matters for academic/skeptical audiences. A legal AI platform's (Series B) framework explicitly defined a voice profile emphasizing intellectual credibility, insider expertise, and trustworthiness -- because lawyers are a uniquely skeptical buyer.
 
 ## Problem Pillar Patterns
 
@@ -75,11 +75,11 @@ Each pain pillar replicates the hero problem's three-layer structure at a lower 
 
 | Archetype | Pattern | Frequency | Example |
 |-----------|---------|-----------|---------|
-| **Capacity** | "We can't do enough" | 8 of 10 clients | A customer AI agent platform (Series A): "Limited customer coverage" |
-| **Quality** | "When we act, it's broken" | 6 of 10 | A home services AI platform (Series B): "Inconsistent customer experience" |
-| **Outcome** | "We're not achieving what we should" | 5 of 10 | A customer AI agent platform (Series A): "Unrealized value" |
-| **Visibility** | "We can't see what's happening" | 3 of 10 | A headcount management platform (Series B): "Untrusted data" |
-| **Cost** | "We're spending too much for what we get" | 3 of 10 | A legal AI platform (Series B): "Escalating, inefficient spend" |
+| **Capacity** | We can't do enough | 8 of 10 clients | A customer AI agent platform (Series A): a pillar naming the inability to reach enough customers |
+| **Quality** | When we act, it's broken | 6 of 10 | A home services AI platform (Series B): a pillar naming inconsistency in the customer experience |
+| **Outcome** | We're not achieving what we should | 5 of 10 | A customer AI agent platform (Series A): a pillar naming the gap between investment and realized value |
+| **Visibility** | We can't see what's happening | 3 of 10 | A headcount management platform (Series B): Untrusted data |
+| **Cost** | We're spending too much for what we get | 3 of 10 | A legal AI platform (Series B): a pillar naming the escalating and inefficient nature of legal spend |
 
 Most pillar sets use 3 of these 5. The most common combination is **Capacity + Quality + Outcome**.
 
@@ -91,9 +91,9 @@ Each pillar must address a different dimension of the hero problem. No two pilla
 
 ### The Mirroring Rule
 Every pain pillar maps 1:1 to a value pillar via inversion. Three inversion types appear:
-- **Negation:** "Untrusted data" → "Real-time visibility" (directly negates the pain)
-- **Aspiration:** "Staffing challenges" → "Scale your front office" (names the aspirational state)
-- **Mechanism:** "Terrible CX" → "Single point of contact" (names how the pain is solved)
+- **Negation:** Untrusted data → Real-time visibility (directly negates the pain)
+- **Aspiration:** Staffing challenges → Scale your front office (names the aspirational state)
+- **Mechanism:** Terrible CX → Single point of contact (names how the pain is solved)
 
 The strongest pillar sets use a consistent inversion type across all three pillars.
 
@@ -121,8 +121,8 @@ each mapping 1:1 to a value pillar via inversion.
 
 ## Related Clients
 - A home services AI platform (Series B) — clean 3-pillar architecture with strong use cases
-- A legal AI platform (Series B) — most complex engagement with dual narratives (CLO + ALF) and a messaging map
+- A legal AI platform (Series B) — most complex engagement with dual narratives and a messaging map
 - A customer AI agent platform (Series A) — pillar structure maps AI agent capabilities to CX paradox
 - A headcount management platform (Series B) — tight alignment between pain, value, and outcome pillars
-- An industrial 3D platform (enterprise) — POV narrative is a standout creative piece ("Seeing is believing")
-- A game development platform (enterprise) — "develop, deploy, grow" framework with strong internal alignment
+- An industrial 3D platform (enterprise) — POV narrative is a standout creative piece built around a perceptual-shift theme
+- A game development platform (enterprise) — a three-verb lifecycle framework with strong internal alignment

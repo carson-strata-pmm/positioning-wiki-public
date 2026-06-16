@@ -15,6 +15,58 @@ This rubric evaluates **POV narratives** -- the persuasive story that makes the 
 
 Evaluating a POV on structural criteria (e.g., "the pillars aren't balanced") or evaluating a framework on narrative criteria (e.g., "the opening isn't compelling") produces meaningless feedback. Match the rubric to the document type.
 
+## Positioning Stance -- Read This First
+
+Every review must account for which positioning stance the asset is pursuing. The stance dictates what "good" looks like -- the same dimension can demand opposite execution depending on the stance. Before evaluating any dimension, determine which stance applies.
+
+### Stance 1: Creating a New Category
+
+- **Reference point:** a job-to-be-done of your choosing
+- **Competitive alternative:** the status quo way people do that JTBD (NOT named vendors)
+- **Target customer:** people doing the JTBD you selected, who don't know a category exists
+- **What good looks like:** indicts the status quo approach/architecture, not competitors. Names a new category. Educates the buyer that the problem is real and unsolved. Invokes an inevitable future. Longest game, highest risk, highest reward.
+- **Stance error to flag:** naming or comparing against competitor brands. A category creator who benchmarks against named vendors is undermining their own category -- they're implicitly admitting they're in someone else's category.
+
+### Stance 2: Competing in a Mature Category
+
+- **Reference point:** the category name itself (the category already exists in buyers' minds)
+- **Competitive alternative:** other named vendors in the category
+- **Target customer:** people already shopping the category
+- **What good looks like:** sharp, specific differentiation against named competitors. Clear reason-to-choose-us within an understood frame. Mind space and budget already exist -- the job is to win the comparison, not create the need.
+- **Stance error to flag:** failing to differentiate against named competitors, or trying to educate the buyer on a problem they already understand. In a mature category, spending the asset explaining why the problem matters is wasted -- the buyer knows. Vague "we're better" claims without specific head-to-head contrast also fail.
+
+### Stance 3: Competing in an Immature Category
+
+- **Reference point:** the job-to-be-done of the category
+- **Competitive alternative:** the status quo way people do that JTBD
+- **Target customer:** people doing the JTBD who may not know the category exists yet
+- **What good looks like:** balances light category education with differentiation. Positions to become a leader as the category solidifies. Some teaching required, but not from scratch. Indicts the status quo while gesturing at the emerging category.
+- **Stance error to flag:** positioning as if the category is mature (over-indexing on competitor comparison when buyers don't yet know the category) OR positioning as if creating from scratch (over-educating when an emerging category already has some awareness). The immature stance requires calibration between the two.
+
+## How Stance Changes This Evaluation
+
+The positioning stance shifts what each dimension should look for:
+
+- **Opening Hook:** For a category creator, the opening must immerse the buyer in the status quo JTBD pain -- the buyer may not yet know a better way exists, so the opening earns its length by making the current approach feel absurd or broken. For a mature-category player, the opening can assume the buyer already feels the problem and move faster to differentiation or a provocative reframe. For an immature-category player, the opening should make the buyer feel the JTBD pain while hinting that an emerging solution category exists.
+
+- **Arc Integrity:** The "Why Now" and "Failed Tries" beats are essential for category creators -- "Why Now" establishes why the world has changed enough to make a new category possible, and "Failed Tries" indicts the status quo approaches (not named vendors) as architecturally incapable. For mature-category players, these beats can be lighter because the buyer already accepts the category premise -- the arc can move faster to the pivot. For immature-category players, "Why Now" should name the shift that is creating the emerging category, and "Failed Tries" should indict both the status quo and the limitations of early category entrants.
+
+- **Resolution & Vision:** For a category creator, the closing vision must paint the inevitable future the new category enables -- it's a world-order argument, not just a product outcome. For a mature-category player, the resolution should focus on specific competitive advantages and the closing vision can be more grounded in near-term buyer outcomes. For an immature-category player, the vision should position the company as the leader of a category that is about to arrive.
+
+- **Writing Quality & Flow:** Stance does not change this dimension's bar. The writing must be tight regardless of stance.
+
+- **Overall Narrative Strength:** For a category creator, narrative strength is measured by whether the reader finishes believing a new category must exist. For a mature-category player, it's measured by whether the reader finishes believing this company wins the comparison. For an immature-category player, it's measured by whether the reader finishes believing this company will lead the emerging category.
+
+## Stance-Execution Mismatch
+
+Before scoring, determine whether the asset's actual execution matches the stance the user selected. A common and costly error is choosing one stance strategically but executing as if pursuing another. Examples:
+
+- Selected "creating a category" but the asset is full of head-to-head competitor comparisons (executing as mature-category)
+- Selected "mature category" but the asset spends most of its energy educating the buyer on a problem they already understand (executing as category creation)
+- Selected "immature category" but positions with no category education at all (executing as mature) or pure greenfield education (executing as creation)
+
+When you detect a mismatch, this is one of the most valuable findings you can surface. Name it explicitly. Explain what stance the execution actually reflects versus what they selected. Then guide them to commit to their chosen direction -- help them stay the course. The goal is not to tell them which stance is right; it's to help them execute consistently with the strategic direction they've chosen. A confused stance produces confused positioning.
+
 ## The Full POV Arc
 
 A POV narrative has a precise arc that must be followed in sequence. Each beat earns the next. Skipping or reordering beats produces a narrative that feels either rushed or meandering.
@@ -126,7 +178,7 @@ The company is introduced as the inevitable answer to the problem the reader now
 
 **Calibration examples:**
 
-- **Strong (5/5):** The back half explains the specific mechanism by which the product eliminates the structural problem named in Beat 5, describes the buyer's day in concrete terms on the other side, and closes with a vision of how the entire category operates differently as a result. (An industrial 3D platform engagement closed with a vision of how the entire manufacturing industry collaborates differently -- not just how one team uses the product.)
+- **Strong (5/5):** The back half explains the specific mechanism by which the product eliminates the structural problem named in Beat 5, describes the buyer's day in concrete terms on the other side, and closes with a vision of how the entire category operates differently as a result. (An industrial 3D platform (enterprise) closed with a vision of how the entire manufacturing industry collaborates differently -- not just how one team uses the product.)
 - **Weak (2/5):** "Introducing [Company]. We solve [problem] with AI-powered [feature]. Join the future of [category]." Announces the company without delivering resolution. Vague aspiration instead of specific vision.
 
 ### 4. Writing Quality & Flow
@@ -243,3 +295,7 @@ Transitions that use connective language ("as a result," "therefore," "but") wit
 - [[concepts/hero-problem-framing]] -- the naming framework behind Beat 5
 - [[concepts/pov-opening-strategies]] -- the five opening moves behind Dimension 1
 - [[concepts/messaging-framework-rubric]] -- the parallel rubric for messaging frameworks
+
+## Output Note for the Review Engine
+
+When the review is generated, the selected stance must be passed to the model and factored into every dimension score and the overall assessment. Company stage may be collected for data but does NOT affect the evaluation -- do not let stage influence scoring or feedback.

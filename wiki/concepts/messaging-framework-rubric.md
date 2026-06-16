@@ -15,6 +15,58 @@ This rubric evaluates **messaging frameworks** -- the operational source-of-trut
 
 Evaluating a framework on narrative criteria (e.g., "the opening isn't compelling") or evaluating a POV on structural criteria (e.g., "the pillars aren't balanced") produces meaningless feedback. Match the rubric to the document type.
 
+## Positioning Stance -- Read This First
+
+Every review must account for which positioning stance the asset is pursuing. The stance dictates what "good" looks like -- the same dimension can demand opposite execution depending on the stance. Before evaluating any dimension, determine which stance applies.
+
+### Stance 1: Creating a New Category
+
+- **Reference point:** a job-to-be-done of your choosing
+- **Competitive alternative:** the status quo way people do that JTBD (NOT named vendors)
+- **Target customer:** people doing the JTBD you selected, who don't know a category exists
+- **What good looks like:** indicts the status quo approach/architecture, not competitors. Names a new category. Educates the buyer that the problem is real and unsolved. Invokes an inevitable future. Longest game, highest risk, highest reward.
+- **Stance error to flag:** naming or comparing against competitor brands. A category creator who benchmarks against named vendors is undermining their own category -- they're implicitly admitting they're in someone else's category.
+
+### Stance 2: Competing in a Mature Category
+
+- **Reference point:** the category name itself (the category already exists in buyers' minds)
+- **Competitive alternative:** other named vendors in the category
+- **Target customer:** people already shopping the category
+- **What good looks like:** sharp, specific differentiation against named competitors. Clear reason-to-choose-us within an understood frame. Mind space and budget already exist -- the job is to win the comparison, not create the need.
+- **Stance error to flag:** failing to differentiate against named competitors, or trying to educate the buyer on a problem they already understand. In a mature category, spending the asset explaining why the problem matters is wasted -- the buyer knows. Vague "we're better" claims without specific head-to-head contrast also fail.
+
+### Stance 3: Competing in an Immature Category
+
+- **Reference point:** the job-to-be-done of the category
+- **Competitive alternative:** the status quo way people do that JTBD
+- **Target customer:** people doing the JTBD who may not know the category exists yet
+- **What good looks like:** balances light category education with differentiation. Positions to become a leader as the category solidifies. Some teaching required, but not from scratch. Indicts the status quo while gesturing at the emerging category.
+- **Stance error to flag:** positioning as if the category is mature (over-indexing on competitor comparison when buyers don't yet know the category) OR positioning as if creating from scratch (over-educating when an emerging category already has some awareness). The immature stance requires calibration between the two.
+
+## How Stance Changes This Evaluation
+
+The positioning stance shifts what each dimension should look for:
+
+- **Hero Problem Clarity:** For a category creator, the hero problem must name a structural failure in the status quo JTBD approach -- it indicts a model, not a competitor. For a mature-category player, the hero problem can assume the buyer already feels the pain and focus on naming why existing solutions in the category fall short. For an immature-category player, the hero problem should name a structural gap that emerging solutions are starting to address but no one has fully solved.
+
+- **Pillar Construction:** For a category creator, pillars should decompose the status quo failure -- each pillar names a dimension of why the current approach is architecturally broken. For a mature-category player, pillars should decompose the differentiation -- each pillar names a dimension where this company wins against named alternatives. For an immature-category player, pillars balance problem education with differentiation.
+
+- **Buyer Specificity:** Stance does not change this dimension's bar. The buyer must be specific regardless of stance.
+
+- **Clarity & Specificity:** For a category creator, specificity means the claims are ownable within the new category being defined -- no competitor can say them because the category didn't exist before. For a mature-category player, specificity means the claims are head-to-head differentiators -- a competitor would have to dispute them, not copy them. For an immature-category player, claims must be specific enough to stake a leadership position as the category crystallizes.
+
+- **Competitive Clarity:** This dimension means something fundamentally different per stance. For a category creator, competitive clarity means a sharp architectural enemy (the status quo JTBD approach) and NO named-vendor comparison. Naming competitors undermines the category creation play. For a mature-category player, competitive clarity means exactly the opposite -- named, specific head-to-head differentiation against known vendors. Failing to name competitors in a mature category is a missed opportunity. For an immature-category player, the enemy is the status quo approach, but the framework should also gesture at why early entrants in the emerging category are insufficient. Same dimension, opposite bar depending on stance.
+
+## Stance-Execution Mismatch
+
+Before scoring, determine whether the asset's actual execution matches the stance the user selected. A common and costly error is choosing one stance strategically but executing as if pursuing another. Examples:
+
+- Selected "creating a category" but the asset is full of head-to-head competitor comparisons (executing as mature-category)
+- Selected "mature category" but the asset spends most of its energy educating the buyer on a problem they already understand (executing as category creation)
+- Selected "immature category" but positions with no category education at all (executing as mature) or pure greenfield education (executing as creation)
+
+When you detect a mismatch, this is one of the most valuable findings you can surface. Name it explicitly. Explain what stance the execution actually reflects versus what they selected. Then guide them to commit to their chosen direction -- help them stay the course. The goal is not to tell them which stance is right; it's to help them execute consistently with the strategic direction they've chosen. A confused stance produces confused positioning.
+
 ## The Five Dimensions
 
 ### 1. Hero Problem Clarity
@@ -236,3 +288,7 @@ These rubrics will be documented in separate concept articles as the wiki expand
 - [[concepts/category-positioning]] -- the competitive framing behind Dimension 5
 - [[concepts/two-buyer-problem]] -- the multi-buyer dynamics behind Dimension 3
 - [[concepts/icp-signal-patterns]] -- the buyer archetype taxonomy behind Dimension 3
+
+## Output Note for the Review Engine
+
+When the review is generated, the selected stance must be passed to the model and factored into every dimension score and the overall assessment. Company stage may be collected for data but does NOT affect the evaluation -- do not let stage influence scoring or feedback.
